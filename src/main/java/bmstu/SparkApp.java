@@ -9,6 +9,6 @@ public class SparkApp {
         SparkConf conf = new SparkConf().setAppName("lab5");
         JavaSparkContext sc = new JavaSparkContext(conf);
         JavaRDD<String> dict = sc.textFile("L_AIRPORT_ID.csv");
-        
+        JavaRDD<String> time = sc.textFile("664600583_T_ONTIME_sample.csv");
     }
 }
