@@ -11,5 +11,7 @@ public class FlightInfo {
 
     }
 
-    public String 
+    public String getDelayTime() {
+        
+    }
 }
