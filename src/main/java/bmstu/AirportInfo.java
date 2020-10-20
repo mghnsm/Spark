@@ -2,8 +2,8 @@ package bmstu;
 
 public class AirportInfo {
     private String[] str;
-    private final int AIRPORT_ID = 0;
-    private final int AIRPORT_NAME = 1;
+    private static final int AIRPORT_ID = 0;
+    private static final int AIRPORT_NAME = 1;
 
     public AirportInfo(String[] str) {
         this.str = str;
