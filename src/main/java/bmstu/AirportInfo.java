@@ -6,4 +6,6 @@ public class AirportInfo {
     public AirportInfo(String[] str) {
         this.str = str;
     }
+
+    
 }
