@@ -14,6 +14,6 @@ public class SparkApp {
         JavaRDD<String> time = sc.textFile("664600583_T_ONTIME_sample.csv");
         JavaRDD<String> dictSplitted = dict.flatMap(s -> Arrays.stream(s.split(",")).iterator());
         JavaRDD<String> timeSplitted = time.flatMap(s -> Arrays.stream(s.split(",")).iterator());
-        
+
     }
 }
