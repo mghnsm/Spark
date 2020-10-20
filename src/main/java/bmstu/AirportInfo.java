@@ -2,17 +2,18 @@ package bmstu;
 
 public class AirportInfo {
     private String[] str;
-    private int 
+    private final int AIRPORT_ID = 0;
+    private final int AIRPORT_NAME = 1;
 
     public AirportInfo(String[] str) {
         this.str = str;
     }
 
     public String getAirportID() {
-        return str[0];
+        return str[AIRPORT_ID];
     }
 
     public String getAirportName() {
-        return str[1];
+        return str[AIRPORT_NAME];
     }
 }
