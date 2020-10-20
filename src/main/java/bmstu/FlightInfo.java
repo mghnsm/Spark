@@ -6,4 +6,10 @@ public class FlightInfo {
     public FlightInfo(String[] str) {
         this.str = str;
     }
+
+    public String isCancelled() {
+
+    }
+
+    public String 
 }
