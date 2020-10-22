@@ -8,8 +8,11 @@ public class FlightDataSerializable implements Serializable {
     private int cancelledFlights;
     private float maxDelayTime;
 
-    public FlightDataSerializable() {
-
+    public FlightDataSerializable(int delayedFlights, int cancelledFlights, int allFlights, float maxDelayTime) {
+        this.delayedFlights = delayedFlights;
+        this.cancelledFlights = cancelledFlights;
+        this.allFlights = allFlights;
+        this.maxDelayTime = maxDelayTime;
     }
 
 
