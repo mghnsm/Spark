@@ -1,4 +1,9 @@
 package bmstu;
 
-public class FlightDataSerializable {
+import java.io.Serializable;
+
+public class FlightDataSerializable implements Serializable {
+    public FlightDataSerializable() {
+
+    }
 }
