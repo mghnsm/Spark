@@ -17,4 +17,5 @@ public class SparkApp {
 
         final Broadcast<Map<String, AirportData>> airportsBroadcasted = sc.broadcast(stringAirportDataMap);
     }
+    
 }
