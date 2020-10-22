@@ -15,5 +15,19 @@ public class FlightDataSerializable implements Serializable {
         this.maxDelayTime = maxDelayTime;
     }
 
+    public int getAllFlights() {
+        return allFlights;
+    }
 
+    public int getDelayedFlights() {
+        return delayedFlights;
+    }
+
+    public int getCancelledFlights() {
+        return cancelledFlights;
+    }
+
+    public float getMaxDelayTime() {
+        return maxDelayTime;
+    }
 }
