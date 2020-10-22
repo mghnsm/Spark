@@ -1,13 +1,8 @@
 package bmstu;
 
 public class StringSplitter {
-    private String[] splitted;
-
-    public StringSplitter(String str) {
-        splitted = str.split(",");
-    }
-
-    public String[] getSplitted() {
+    public static String[] split(String str) {
+        String[] splitted = str.split(",");
         return splitted;
     }
 }
