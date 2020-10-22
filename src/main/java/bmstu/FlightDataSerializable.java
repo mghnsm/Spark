@@ -15,5 +15,5 @@ public class FlightDataSerializable implements Serializable {
         this.maxDelayTime = maxDelayTime;
     }
 
-
+    
 }
