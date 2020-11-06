@@ -55,7 +55,7 @@ public class SparkApp {
                         }
                 );
 
-        JavaRDD<> output =
+        
 
         //flightPairsTotal.saveAsTextFile("output");
 
