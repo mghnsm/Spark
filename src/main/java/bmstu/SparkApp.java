@@ -1,8 +1,10 @@
 package bmstu;
 
 import org.apache.spark.SparkConf;
+import org.apache.spark.api.java.JavaPairRDD;
 import org.apache.spark.api.java.JavaRDD;
 import org.apache.spark.api.java.JavaSparkContext;
+import scala.Tuple2;
 
 public class SparkApp {
 
@@ -11,7 +13,7 @@ public class SparkApp {
 
     private static final String CODE = "Code";
     public static final String DEST_AIRPORT_ID = "DEST_AIRPORT_ID";
-    
+
     public static final int AIRPORT_ID_TABLE = 0;
     public static final int DEST_AIRPORT_ID_TABLE = 14;
 
@@ -34,6 +36,13 @@ public class SparkApp {
         JavaRDD<String[]> timeSplitted = time
                 .map(StringSplitter::split)
                 .filter(cols -> isNotEqualTo(cols, DEST_AIRPORT_ID_TABLE, DEST_AIRPORT_ID));
+
+        JavaPairRDD<Tuple2, FlightDataSerializable> = timeSplitted
+                .mapToPair(
+                        cols -> {
+                            
+                        }
+                );
 
         //final Broadcast<Map<String, AirportData>> airportsBroadcasted = sc.broadcast(stringAirportDataMap);
     }
