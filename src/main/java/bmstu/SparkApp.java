@@ -64,7 +64,7 @@ public class SparkApp {
                             + item._1._1 + " "
                             + airportsBroadcasted.value().get(item._1._2) + " "
                             + item._1._2 + " "
-                            + 
+                            + item._2.getMaxDelayTime() + " ";
                 }
         );
 
