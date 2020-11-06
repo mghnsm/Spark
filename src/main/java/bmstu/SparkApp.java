@@ -62,11 +62,11 @@ public class SparkApp {
         JavaRDD<String> output = flightPairsTotal.map(
                 item -> {
                     String out = "";
-                    out += airportsBroadcasted.value().get(item._1._1) + " "
+                    out += "Origin: " + airportsBroadcasted.value().get(item._1._1) + " "
                             + item._1._1 + ", "
-                            + airportsBroadcasted.value().get(item._1._2) + " "
+                            + "Destination: " + airportsBroadcasted.value().get(item._1._2) + " "
                             + item._1._2 + ",\nMax delay time: "
-                            + item._2.getMaxDelayTime() + " ";
+                            + item._2.getMaxDelayTime() + " \n";
                     return out;
                 }
         );
