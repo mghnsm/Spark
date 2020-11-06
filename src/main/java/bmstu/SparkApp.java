@@ -49,6 +49,8 @@ public class SparkApp {
 
         Map<String, String> =
 
+        JavaRDD<> output = 
+
         //flightPairsTotal.saveAsTextFile("output");
 
         //final Broadcast<Map<String, AirportData>> airportsBroadcasted = sc.broadcast(stringAirportDataMap);
