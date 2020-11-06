@@ -49,7 +49,7 @@ public class SparkApp {
         JavaPairRDD<Tuple2, FlightDataSerializable> flightPairsTotal = flightPairs
                 .reduceByKey(FlightDataSerializable::addData);
 
-        Map<String, String> airportDataMap = airportSplitted
+        Map<String, String> stringAirportDataMap = airportSplitted
                 .mapToPair(cols -> {
                     AirportInfo info = new AirportInfo(cols);
                     return new Tuple2<>(info.getAirportID(), info.getAirportName());
@@ -57,7 +57,7 @@ public class SparkApp {
 
         //flightPairsTotal.saveAsTextFile("output");
 
-        //final Broadcast<Map<String, AirportData>> airportsBroadcasted = sc.broadcast(stringAirportDataMap);
+        final Broadcast<Map<String, AirportData>> airportsBroadcasted = sc.broadcast(stringAirportDataMap);
     }
 
 }
