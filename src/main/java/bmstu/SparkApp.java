@@ -59,10 +59,12 @@ public class SparkApp {
         final Broadcast<Map<String, String>> airportsBroadcasted = sc.broadcast(stringAirportDataMap);
 
         JavaRDD<String> output = flightPairsTotal.map(
-
+                item -> {
+                    
+                }
         );
 
-        
+        output.saveAsTextFile("output");
     }
 
 }
