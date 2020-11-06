@@ -26,9 +26,7 @@ public class SparkApp {
         JavaSparkContext sc = new JavaSparkContext(conf);
         JavaRDD<String> airport = sc.textFile(PATH_TO_AIRPORT_TABLE);
         JavaRDD<String> flight = sc.textFile(PATH_TO_FLIGHT_TABLE);
-        //JavaRDD<String> dictSplitted = dict.flatMap(s -> Arrays.stream(s.split(",")).iterator());
-        //JavaRDD<String> timeSplitted = time.flatMap(s -> Arrays.stream(s.split(",")).iterator());
-
+        
         JavaRDD<String[]> airportSplitted = airport
                 .map(StringSplitter::split)
                 .filter(cols -> isNotEqualTo(cols, AIRPORT_ID_TABLE, CODE));
