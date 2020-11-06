@@ -11,6 +11,8 @@ public class SparkApp {
     public static final String PATH_TO_AIRPORT_TABLE = "L_AIRPORT_ID.csv";
     public static final String PATH_TO_FLIGHT_TABLE = "664600583_T_ONTIME_sample.csv";
 
+    private static final String code = "Code";
+
     public static void main(String[] args) throws Exception {
         SparkConf conf = new SparkConf().setAppName("lab5");
         JavaSparkContext sc = new JavaSparkContext(conf);
@@ -19,7 +21,13 @@ public class SparkApp {
         //JavaRDD<String> dictSplitted = dict.flatMap(s -> Arrays.stream(s.split(",")).iterator());
         //JavaRDD<String> timeSplitted = time.flatMap(s -> Arrays.stream(s.split(",")).iterator());
 
-        JavaRDD<String[]>
+        JavaRDD<String[]> dictSplitted = dict
+                .map(StringSplitter::split)
+                .filter();
+
+        JavaRDD<String[]> timeSplitted = time
+                .map(StringSplitter::split)
+                .filter();
 
         //final Broadcast<Map<String, AirportData>> airportsBroadcasted = sc.broadcast(stringAirportDataMap);
     }
