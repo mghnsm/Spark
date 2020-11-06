@@ -53,7 +53,7 @@ public class SparkApp {
                 .mapToPair(cols -> {
 
                         }
-                )
+                );
 
         JavaRDD<> output =
 
