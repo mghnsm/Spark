@@ -10,7 +10,10 @@ public class SparkApp {
     public static final String PATH_TO_FLIGHT_TABLE = "664600583_T_ONTIME_sample.csv";
 
     private static final String CODE = "Code";
-    public static final int AIRPORT_ID_DICT = 0;
+    public static final String DEST_AIRPORT_ID = "DEST_AIRPORT_ID";
+    
+    public static final int AIRPORT_ID_TABLE = 0;
+    public static final int DEST_AIRPORT_ID_TABLE = 14;
 
     private static boolean isNotEqualTo(String[] cols, int index, String name) {
         return !cols[index].equals(name);
@@ -26,11 +29,11 @@ public class SparkApp {
 
         JavaRDD<String[]> dictSplitted = dict
                 .map(StringSplitter::split)
-                .filter(cols -> isNotEqualTo(cols, AIRPORT_ID_DICT, CODE));
+                .filter(cols -> isNotEqualTo(cols, AIRPORT_ID_TABLE, CODE));
 
         JavaRDD<String[]> timeSplitted = time
                 .map(StringSplitter::split)
-                .filter(cols -> isNotEqualTo(cols,14 , ));
+                .filter(cols -> isNotEqualTo(cols, DEST_AIRPORT_ID_TABLE, DEST_AIRPORT_ID));
 
         //final Broadcast<Map<String, AirportData>> airportsBroadcasted = sc.broadcast(stringAirportDataMap);
     }
