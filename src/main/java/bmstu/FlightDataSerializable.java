@@ -27,6 +27,12 @@ public class FlightDataSerializable implements Serializable {
         this.cancelledFlights = (Float.parseFloat(cancelled) > 0 ? 1 : 0);
     }
 
+    public static FlightDataSerializable addData() {
+        return new FlightDataSerializable(
+                
+        );
+    }
+
     public int getAllFlights() {
         return allFlights;
     }
