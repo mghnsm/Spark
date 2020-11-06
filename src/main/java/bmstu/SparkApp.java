@@ -61,7 +61,7 @@ public class SparkApp {
         JavaRDD<String> output = flightPairsTotal.map(
                 item -> {
                     airportsBroadcasted.value().get() + ""
-                            +
+                            + item._1._1
                 }
         );
 
