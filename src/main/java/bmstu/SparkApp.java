@@ -6,6 +6,8 @@ import org.apache.spark.api.java.JavaRDD;
 import org.apache.spark.api.java.JavaSparkContext;
 import scala.Tuple2;
 
+import java.util.Map;
+
 public class SparkApp {
     public static final String PATH_TO_AIRPORT_TABLE = "L_AIRPORT_ID.csv";
     public static final String PATH_TO_FLIGHT_TABLE = "664600583_T_ONTIME_sample.csv";
