@@ -52,7 +52,7 @@ public class SparkApp {
         Map<String, String> airportDataMap = airportSplitted
                 .mapToPair(cols -> {
 
-                }
+                        }
                 )
 
         JavaRDD<> output =
