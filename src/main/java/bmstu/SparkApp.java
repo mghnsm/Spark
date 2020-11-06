@@ -61,6 +61,8 @@ public class SparkApp {
         JavaRDD<String> output = flightPairsTotal.map(
 
         );
+
+        
     }
 
 }
