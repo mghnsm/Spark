@@ -44,6 +44,9 @@ public class SparkApp {
                         }
                 );
 
+        JavaPairRDD<Tuple2, FlightDataSerializable> flightPairsTotal = flightPairs
+                .reduceByKey(FlightDataSerializable::addData);
+
         //final Broadcast<Map<String, AirportData>> airportsBroadcasted = sc.broadcast(stringAirportDataMap);
     }
 
