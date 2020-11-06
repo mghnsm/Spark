@@ -56,12 +56,10 @@ public class SparkApp {
                     return new Tuple2<>(info.getAirportID(), info.getAirportName());
                 }).collectAsMap();
 
-        //flightPairsTotal.saveAsTextFile("output");
-
         final Broadcast<Map<String, String>> airportsBroadcasted = sc.broadcast(stringAirportDataMap);
 
         JavaRDD<String> output = flightPairsTotal.map(
-                
+
         );
     }
 
