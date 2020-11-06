@@ -4,14 +4,12 @@ import org.apache.spark.SparkConf;
 import org.apache.spark.api.java.JavaRDD;
 import org.apache.spark.api.java.JavaSparkContext;
 
-import java.util.Arrays;
-
 public class SparkApp {
 
     public static final String PATH_TO_AIRPORT_TABLE = "L_AIRPORT_ID.csv";
     public static final String PATH_TO_FLIGHT_TABLE = "664600583_T_ONTIME_sample.csv";
 
-    private static final String code = "Code";
+    private static final String CODE = "Code";
     public static final int AIRPORT_ID_DICT = 0;
 
     private static boolean isNotEqualTo(String[] cols, int index, String name) {
@@ -28,11 +26,11 @@ public class SparkApp {
 
         JavaRDD<String[]> dictSplitted = dict
                 .map(StringSplitter::split)
-                .filter(cols -> isNotEqualTo(cols, AIRPORT_ID_DICT, code));
+                .filter(cols -> isNotEqualTo(cols, AIRPORT_ID_DICT, CODE));
 
         JavaRDD<String[]> timeSplitted = time
                 .map(StringSplitter::split)
-                .filter();
+                .filter(cols -> isNotEqualTo(cols, , ));
 
         //final Broadcast<Map<String, AirportData>> airportsBroadcasted = sc.broadcast(stringAirportDataMap);
     }
