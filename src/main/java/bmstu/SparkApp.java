@@ -73,5 +73,4 @@ public class SparkApp {
 
         output.saveAsTextFile("output");
     }
-
 }
