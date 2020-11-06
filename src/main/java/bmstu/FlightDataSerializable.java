@@ -53,10 +53,10 @@ public class FlightDataSerializable implements Serializable {
     }
 
     public float getDelaysPercent() {
-
+        return (float) (delayedFlights / (allFlights * 0.01));
     }
 
     public float getCancelledPercent() {
-
+        return (float) (cancelledFlights / (allFlights * 0.01));
     }
 }

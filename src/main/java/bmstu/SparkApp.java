@@ -66,7 +66,9 @@ public class SparkApp {
                             + item._1._1 + ", \n"
                             + "Destination: " + airportsBroadcasted.value().get(item._1._2) + " "
                             + item._1._2 + ",\nMax delay time: "
-                            + item._2.getMaxDelayTime() + " \n";
+                            + item._2.getMaxDelayTime() + " \nDelays percent: "
+                    + item._2.getDelaysPercent() + "% \nCancelled percent: "
+                    + item._2.getCancelledPercent() + "%\n";
                     return out;
                 }
         );
