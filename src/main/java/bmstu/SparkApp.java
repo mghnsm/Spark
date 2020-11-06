@@ -7,7 +7,6 @@ import org.apache.spark.api.java.JavaSparkContext;
 import scala.Tuple2;
 
 public class SparkApp {
-
     public static final String PATH_TO_AIRPORT_TABLE = "L_AIRPORT_ID.csv";
     public static final String PATH_TO_FLIGHT_TABLE = "664600583_T_ONTIME_sample.csv";
 
@@ -26,7 +25,7 @@ public class SparkApp {
         JavaSparkContext sc = new JavaSparkContext(conf);
         JavaRDD<String> airport = sc.textFile(PATH_TO_AIRPORT_TABLE);
         JavaRDD<String> flight = sc.textFile(PATH_TO_FLIGHT_TABLE);
-        
+
         JavaRDD<String[]> airportSplitted = airport
                 .map(StringSplitter::split)
                 .filter(cols -> isNotEqualTo(cols, AIRPORT_ID_TABLE, CODE));
