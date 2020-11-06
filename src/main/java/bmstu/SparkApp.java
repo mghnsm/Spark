@@ -52,8 +52,9 @@ public class SparkApp {
         Map<String, String> airportDataMap = airportSplitted
                 .mapToPair(cols -> {
                     AirportInfo info = new AirportInfo();
+                    return new Tuple2<>();
                         }
-                );
+                ).collectAsMap();
 
         //flightPairsTotal.saveAsTextFile("output");
 
