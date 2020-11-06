@@ -30,7 +30,7 @@ public class SparkApp {
 
         JavaRDD<String[]> timeSplitted = time
                 .map(StringSplitter::split)
-                .filter(cols -> isNotEqualTo(cols, , ));
+                .filter(cols -> isNotEqualTo(cols,14 , ));
 
         //final Broadcast<Map<String, AirportData>> airportsBroadcasted = sc.broadcast(stringAirportDataMap);
     }
