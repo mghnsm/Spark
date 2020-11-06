@@ -31,7 +31,7 @@ public class SparkApp {
         JavaRDD<String> flight = sc.textFile(PATH_TO_FLIGHT_TABLE);
 
         JavaRDD<String[]> airportSplitted = airport
-                
+                .map(StringSplitter::split)
                 .filter(cols -> isNotEqualTo(cols, AIRPORT_ID_TABLE, CODE));
 
         JavaRDD<String[]> flightSplitted = flight
