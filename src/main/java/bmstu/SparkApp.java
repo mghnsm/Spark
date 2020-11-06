@@ -24,23 +24,27 @@ public class SparkApp {
     public static void main(String[] args) throws Exception {
         SparkConf conf = new SparkConf().setAppName("lab5");
         JavaSparkContext sc = new JavaSparkContext(conf);
-        JavaRDD<String> dict = sc.textFile(PATH_TO_AIRPORT_TABLE);
-        JavaRDD<String> time = sc.textFile(PATH_TO_FLIGHT_TABLE);
+        JavaRDD<String> airport = sc.textFile(PATH_TO_AIRPORT_TABLE);
+        JavaRDD<String> flight = sc.textFile(PATH_TO_FLIGHT_TABLE);
         //JavaRDD<String> dictSplitted = dict.flatMap(s -> Arrays.stream(s.split(",")).iterator());
         //JavaRDD<String> timeSplitted = time.flatMap(s -> Arrays.stream(s.split(",")).iterator());
 
-        JavaRDD<String[]> dictSplitted = dict
+        JavaRDD<String[]> airportSplitted = airport
                 .map(StringSplitter::split)
                 .filter(cols -> isNotEqualTo(cols, AIRPORT_ID_TABLE, CODE));
 
-        JavaRDD<String[]> timeSplitted = time
+        JavaRDD<String[]> flightSplitted = flight
                 .map(StringSplitter::split)
                 .filter(cols -> isNotEqualTo(cols, DEST_AIRPORT_ID_TABLE, DEST_AIRPORT_ID));
 
-        JavaPairRDD<Tuple2, FlightDataSerializable> = timeSplitted
+        JavaPairRDD<Tuple2, FlightDataSerializable> flightPairs = flightSplitted
                 .mapToPair(
                         cols -> {
-                            
+                            FlightInfo data = new FlightInfo(cols);
+                            return new Tuple2<>(
+                                    new Tuple2(data.getOriginAirportID(), data.getDestAirportID()),
+                                    new FlightDataSerializable(data.getDelayTime(), data.isCancelled());
+                            )
                         }
                 );
 
