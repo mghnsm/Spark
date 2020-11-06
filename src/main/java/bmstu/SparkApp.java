@@ -65,7 +65,7 @@ public class SparkApp {
                     out += airportsBroadcasted.value().get(item._1._1) + " "
                             + item._1._1 + ", "
                             + airportsBroadcasted.value().get(item._1._2) + " "
-                            + item._1._2 + ", Max delay time: "
+                            + item._1._2 + ",\nMax delay time: "
                             + item._2.getMaxDelayTime() + " ";
                     return out;
                 }
