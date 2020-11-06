@@ -47,7 +47,7 @@ public class SparkApp {
         JavaPairRDD<Tuple2, FlightDataSerializable> flightPairsTotal = flightPairs
                 .reduceByKey(FlightDataSerializable::addData);
 
-        Map<> =
+        Map<String, String> =
 
         //flightPairsTotal.saveAsTextFile("output");
 
