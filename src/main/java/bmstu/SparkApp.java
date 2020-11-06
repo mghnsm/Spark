@@ -19,7 +19,7 @@ public class SparkApp {
         JavaRDD<String> dictSplitted = dict.flatMap(s -> Arrays.stream(s.split(",")).iterator());
         JavaRDD<String> timeSplitted = time.flatMap(s -> Arrays.stream(s.split(",")).iterator());
 
-        JavaRDD<String[]> 
+        JavaRDD<String[]>
 
         //final Broadcast<Map<String, AirportData>> airportsBroadcasted = sc.broadcast(stringAirportDataMap);
     }
