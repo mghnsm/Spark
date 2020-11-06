@@ -43,8 +43,7 @@ public class SparkApp {
                             FlightInfo data = new FlightInfo(cols);
                             return new Tuple2<>(
                                     new Tuple2(data.getOriginAirportID(), data.getDestAirportID()),
-                                    new FlightDataSerializable(data.getDelayTime(), data.isCancelled());
-                            )
+                                    new FlightDataSerializable(data.getDelayTime(), data.isCancelled()));
                         }
                 );
 
