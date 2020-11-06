@@ -27,7 +27,7 @@ public class SparkApp {
 
         JavaRDD<String[]> dictSplitted = dict
                 .map(StringSplitter::split)
-                .filter();
+                .filter(cols -> isNotEqualTo(cols, 0, code));
 
         JavaRDD<String[]> timeSplitted = time
                 .map(StringSplitter::split)
