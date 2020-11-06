@@ -27,9 +27,12 @@ public class FlightDataSerializable implements Serializable {
         this.cancelledFlights = (Float.parseFloat(cancelled) > 0 ? 1 : 0);
     }
 
-    public static FlightDataSerializable addData(FlightDataSerializable dataFirst, FlightDataSerializable dataSecond) {
+    public static FlightDataSerializable addData(FlightDataSerializable first, FlightDataSerializable second) {
         return new FlightDataSerializable(
-
+                first.getDelayedFlights() + second.getDelayedFlights(),
+                first.getCancelledFlights() + second.getCancelledFlights(),
+                first.getAllFlights() + second.getAllFlights(),
+                Math.max(first.getMaxDelayTime(), second.getMaxDelayTime())
         );
     }
 
