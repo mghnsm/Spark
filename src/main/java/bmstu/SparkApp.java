@@ -53,8 +53,7 @@ public class SparkApp {
                 .mapToPair(cols -> {
                     AirportInfo info = new AirportInfo(cols);
                     return new Tuple2<>(info.getAirportID(), info.getAirportName());
-                        }
-                ).collectAsMap();
+                }).collectAsMap();
 
         //flightPairsTotal.saveAsTextFile("output");
 
