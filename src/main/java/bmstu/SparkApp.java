@@ -59,6 +59,10 @@ public class SparkApp {
         //flightPairsTotal.saveAsTextFile("output");
 
         final Broadcast<Map<String, String>> airportsBroadcasted = sc.broadcast(stringAirportDataMap);
+
+        JavaRDD<String> output = flightPairsTotal.map(
+                
+        );
     }
 
 }
