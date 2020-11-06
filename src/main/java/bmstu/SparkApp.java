@@ -13,6 +13,8 @@ public class SparkApp {
 
     private static final String code = "Code";
 
+    private static boolean 
+
     public static void main(String[] args) throws Exception {
         SparkConf conf = new SparkConf().setAppName("lab5");
         JavaSparkContext sc = new JavaSparkContext(conf);
