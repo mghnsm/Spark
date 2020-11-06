@@ -49,9 +49,13 @@ public class SparkApp {
         JavaPairRDD<Tuple2, FlightDataSerializable> flightPairsTotal = flightPairs
                 .reduceByKey(FlightDataSerializable::addData);
 
-        Map<String, String> =
+        Map<String, String> airportDataMap = airportSplitted
+                .mapToPair(cols -> {
 
-        JavaRDD<> output = 
+                }
+                )
+
+        JavaRDD<> output =
 
         //flightPairsTotal.saveAsTextFile("output");
 
