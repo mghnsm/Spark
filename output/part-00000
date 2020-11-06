@@ -1,0 +1,3980 @@
+Jackson 12441, Seattle 14747,
+Max delay time: 0.0 
+Memphis 13244, Los Angeles 12892,
+Max delay time: 0.0 
+Helena 12156, Salt Lake City 14869,
+Max delay time: 33.0 
+Denver 11292, Akron 10874,
+Max delay time: 0.0 
+Denver 11292, San Jose 14831,
+Max delay time: 54.0 
+Chicago 13930, Cedar Rapids/Iowa City 11003,
+Max delay time: 148.0 
+Tampa 15304, Nashville 10693,
+Max delay time: 1.0 
+Miami 13303, Philadelphia 14100,
+Max delay time: 99.0 
+Richmond 14524, Chicago 13930,
+Max delay time: 432.0 
+Charlotte 11057, Detroit 11433,
+Max delay time: 96.0 
+New York 12953, Philadelphia 14100,
+Max delay time: 0.0 
+New York 12478, Ponce 14254,
+Max delay time: 0.0 
+Chicago 13930, Bozeman 10849,
+Max delay time: 0.0 
+Dallas 11259, Chicago 13232,
+Max delay time: 91.0 
+Milwaukee 13342, Atlanta 10397,
+Max delay time: 131.0 
+Denver 11292, Cleveland 11042,
+Max delay time: 63.0 
+Dallas/Fort Worth 11298, Louisville 14730,
+Max delay time: 96.0 
+Dallas/Fort Worth 11298, San Angelo 14842,
+Max delay time: 35.0 
+Houston 12266, Chicago 13930,
+Max delay time: 75.0 
+Phoenix 14107, New Orleans 13495,
+Max delay time: 24.0 
+Tampa 15304, Latrobe 12898,
+Max delay time: 94.0 
+Atlanta 10397, Valparaiso 15624,
+Max delay time: 22.0 
+Manchester 13296, Orlando 13204,
+Max delay time: 12.0 
+Baltimore 10821, Las Vegas 12889,
+Max delay time: 167.0 
+Washington 12264, West Palm Beach/Palm Beach 14027,
+Max delay time: 0.0 
+Houston 12266, Dallas 11259,
+Max delay time: 95.0 
+Chicago 13232, Cleveland 11042,
+Max delay time: 28.0 
+Denver 11292, Spokane 11884,
+Max delay time: 58.0 
+Memphis 13244, Chicago 13232,
+Max delay time: 36.0 
+Atlanta 10397, Tucson 15376,
+Max delay time: 0.0 
+Houston 12266, Pensacola 14193,
+Max delay time: 24.0 
+Seattle 14747, San Antonio 14683,
+Max delay time: 27.0 
+Charlotte Amalie 15024, San Juan 14843,
+Max delay time: 131.0 
+Tallahassee 15249, Dallas/Fort Worth 11298,
+Max delay time: 34.0 
+Atlanta 10397, Oakland 13796,
+Max delay time: 23.0 
+Pittsburgh 14122, Chicago 13232,
+Max delay time: 34.0 
+Houston 12266, Hayden 12094,
+Max delay time: 18.0 
+Richmond 14524, Washington 12264,
+Max delay time: 0.0 
+Houston 12266, Oklahoma City 13851,
+Max delay time: 21.0 
+Houston 12266, Colorado Springs 11109,
+Max delay time: 224.0 
+Tulsa 15370, Miami 13303,
+Max delay time: 7.0 
+Moline 13367, Chicago 13930,
+Max delay time: 25.0 
+Newark 11618, Fayetteville 15919,
+Max delay time: 6.0 
+Valparaiso 15624, Houston 12266,
+Max delay time: 70.0 
+Oklahoma City 13851, Phoenix 14107,
+Max delay time: 79.0 
+Midland/Odessa 13158, Dallas/Fort Worth 11298,
+Max delay time: 118.0 
+Tampa 15304, Austin 10423,
+Max delay time: 8.0 
+Dallas 11259, El Paso 11540,
+Max delay time: 41.0 
+Portland 14321, Baltimore 10821,
+Max delay time: 148.0 
+Honolulu 12173, Houston 12266,
+Max delay time: 9.0 
+Charleston 10994, Charlotte 11057,
+Max delay time: 8.0 
+Reno 14570, Chicago 13930,
+Max delay time: 0.0 
+San Francisco 14771, Seattle 14747,
+Max delay time: 77.0 
+Chicago 13930, Tampa 15304,
+Max delay time: 197.0 
+Austin 10423, Boston 10721,
+Max delay time: 7.0 
+San Antonio 14683, Atlanta 10397,
+Max delay time: 105.0 
+Tulsa 15370, Phoenix 14107,
+Max delay time: 21.0 
+Fort Myers 14635, Boston 10721,
+Max delay time: 170.0 
+Islip 12391, Orlando 13204,
+Max delay time: 68.0 
+Houston 12266, Boise 10713,
+Max delay time: 14.0 
+Newark 11618, San Juan 14843,
+Max delay time: 209.0 
+Duluth 11337, Minneapolis 13487,
+Max delay time: 58.0 
+Sacramento 14893, Portland 14057,
+Max delay time: 138.0 
+Chicago 13930, San Francisco 14771,
+Max delay time: 275.0 
+Nashville 10693, Minneapolis 13487,
+Max delay time: 90.0 
+Fort Lauderdale 11697, Washington 11278,
+Max delay time: 65.0 
+Moline 13367, Dallas/Fort Worth 11298,
+Max delay time: 31.0 
+Washington 11278, Miami 13303,
+Max delay time: 49.0 
+Dallas/Fort Worth 11298, Huntsville 12217,
+Max delay time: 69.0 
+Houston 12191, Newark 11618,
+Max delay time: 167.0 
+Hays 12255, Denver 11292,
+Max delay time: 16.0 
+Detroit 11433, Des Moines 11423,
+Max delay time: 21.0 
+Dallas/Fort Worth 11298, Meridian 13241,
+Max delay time: 12.0 
+Denver 11292, Newark 11618,
+Max delay time: 141.0 
+Mobile 13422, Houston 12266,
+Max delay time: 142.0 
+Salt Lake City 14869, Las Vegas 12889,
+Max delay time: 132.0 
+Rhinelander 14520, Minneapolis 13487,
+Max delay time: 23.0 
+Atlanta 10397, Gainesville 11953,
+Max delay time: 86.0 
+Washington 12264, Knoxville 15412,
+Max delay time: 14.0 
+Detroit 11433, Manchester 13296,
+Max delay time: 0.0 
+Houston 12266, Louisville 14730,
+Max delay time: 5.0 
+Minneapolis 13487, Dayton 11267,
+Max delay time: 44.0 
+Orlando 13204, New York 12478,
+Max delay time: 156.0 
+San Francisco 14771, Burbank 10800,
+Max delay time: 66.0 
+Kahului 13830, Los Angeles 12892,
+Max delay time: 298.0 
+Baltimore 10821, San Diego 14679,
+Max delay time: 37.0 
+Denver 11292, Baltimore 10821,
+Max delay time: 310.0 
+Salt Lake City 14869, Chicago 13930,
+Max delay time: 79.0 
+Elmira/Corning 11537, Detroit 11433,
+Max delay time: 12.0 
+Portland 14057, Salt Lake City 14869,
+Max delay time: 51.0 
+Providence 14307, Detroit 11433,
+Max delay time: 43.0 
+Minneapolis 13487, Anchorage 10299,
+Max delay time: 58.0 
+Chicago 13930, Hancock/Houghton 11076,
+Max delay time: 69.0 
+San Francisco 14771, Raleigh/Durham 14492,
+Max delay time: 165.0 
+Harlingen/San Benito 12206, Houston 12191,
+Max delay time: 13.0 
+San Diego 14679, Baltimore 10821,
+Max delay time: 56.0 
+New York 12478, Jacksonville 12451,
+Max delay time: 0.0 
+Burlington 10785, Chicago 13930,
+Max delay time: 62.0 
+Dallas/Fort Worth 11298, Abilene 10136,
+Max delay time: 76.0 
+Chicago 13930, Nashville 10693,
+Max delay time: 391.0 
+Dallas 11259, Denver 11292,
+Max delay time: 28.0 
+Philadelphia 14100, Detroit 11433,
+Max delay time: 95.0 
+Portland 14057, San Francisco 14771,
+Max delay time: 93.0 
+Islip 12391, Fort Lauderdale 11697,
+Max delay time: 0.0 
+San Antonio 14683, Los Angeles 12892,
+Max delay time: 86.0 
+Denver 11292, Chicago 13232,
+Max delay time: 101.0 
+Dallas/Fort Worth 11298, Fort Myers 14635,
+Max delay time: 96.0 
+Washington 11278, Fort Lauderdale 11697,
+Max delay time: 254.0 
+San Antonio 14683, Minneapolis 13487,
+Max delay time: 3.0 
+Indianapolis 12339, Fort Myers 14635,
+Max delay time: 38.0 
+New York 12478, Rochester 14576,
+Max delay time: 39.0 
+Charlottesville 10990, Atlanta 10397,
+Max delay time: 44.0 
+Atlanta 10397, Portland 14321,
+Max delay time: 1.0 
+Kona 12758, Phoenix 14107,
+Max delay time: 2.0 
+Lexington 12945, Chicago 13930,
+Max delay time: 68.0 
+Atlanta 10397, San Jose 14831,
+Max delay time: 11.0 
+Chicago 13232, Nashville 10693,
+Max delay time: 75.0 
+Denver 11292, Amarillo 10279,
+Max delay time: 21.0 
+Flint 11721, Minneapolis 13487,
+Max delay time: 79.0 
+San Francisco 14771, Chicago 13232,
+Max delay time: 72.0 
+Portland 14057, Burbank 10800,
+Max delay time: 0.0 
+Milwaukee 13342, Detroit 11433,
+Max delay time: 191.0 
+Atlanta 10397, Tulsa 15370,
+Max delay time: 43.0 
+Atlanta 10397, Des Moines 11423,
+Max delay time: 46.0 
+Colorado Springs 11109, Chicago 13930,
+Max delay time: 313.0 
+Oakland 13796, Chicago 13232,
+Max delay time: 19.0 
+Washington 12264, Boston 10721,
+Max delay time: 159.0 
+Austin 10423, Chicago 13232,
+Max delay time: 60.0 
+Myrtle Beach 13577, Atlanta 10397,
+Max delay time: 206.0 
+Atlanta 10397, New York 12478,
+Max delay time: 90.0 
+Kansas City 13198, Houston 12266,
+Max delay time: 75.0 
+San Luis Obispo 14698, Phoenix 14107,
+Max delay time: 47.0 
+Houston 12266, Detroit 11433,
+Max delay time: 164.0 
+Omaha 13871, St. Louis 15016,
+Max delay time: 4.0 
+Dallas/Fort Worth 11298, Detroit 11433,
+Max delay time: 142.0 
+San Francisco 14771, Newark 11618,
+Max delay time: 236.0 
+Dallas/Fort Worth 11298, New York 12478,
+Max delay time: 12.0 
+Richmond 14524, Miami 13303,
+Max delay time: 0.0 
+El Paso 11540, Houston 12191,
+Max delay time: 66.0 
+Los Angeles 12892, Cincinnati 11193,
+Max delay time: 8.0 
+Denver 11292, Miami 13303,
+Max delay time: 66.0 
+Spokane 11884, Seattle 14747,
+Max delay time: 348.0 
+Pittsburgh 14122, Dallas/Fort Worth 11298,
+Max delay time: 90.0 
+Phoenix 14107, Reno 14570,
+Max delay time: 71.0 
+Asheville 10431, Atlanta 10397,
+Max delay time: 220.0 
+Dallas/Fort Worth 11298, Seattle 14747,
+Max delay time: 137.0 
+Columbia 10868, Atlanta 10397,
+Max delay time: 186.0 
+Orlando 13204, Chicago 13930,
+Max delay time: 94.0 
+Tampa 15304, Atlanta 10397,
+Max delay time: 43.0 
+Minneapolis 13487, Brainerd 10739,
+Max delay time: 6.0 
+Jacksonville 12451, Philadelphia 14100,
+Max delay time: 2.0 
+Minneapolis 13487, St. Louis 15016,
+Max delay time: 47.0 
+Traverse City 15380, Detroit 11433,
+Max delay time: 20.0 
+Fayetteville 11641, Atlanta 10397,
+Max delay time: 85.0 
+Baltimore 10821, Los Angeles 12892,
+Max delay time: 10.0 
+El Paso 11540, Las Vegas 12889,
+Max delay time: 155.0 
+Philadelphia 14100, Dallas/Fort Worth 11298,
+Max delay time: 313.0 
+Richmond 14524, Boston 10721,
+Max delay time: 40.0 
+Washington 11278, Los Angeles 12892,
+Max delay time: 37.0 
+Fresno 11638, Salt Lake City 14869,
+Max delay time: 0.0 
+Washington 12264, Jacksonville 12451,
+Max delay time: 6.0 
+Chicago 13930, Roanoke 14574,
+Max delay time: 109.0 
+Kahului 13830, San Francisco 14771,
+Max delay time: 198.0 
+Tyler 15411, Houston 12266,
+Max delay time: 54.0 
+Chicago 13930, Oakland 13796,
+Max delay time: 69.0 
+Charlotte 11057, Buffalo 10792,
+Max delay time: 12.0 
+Long Beach 12954, Oakland 13796,
+Max delay time: 31.0 
+Palm Springs 14262, Los Angeles 12892,
+Max delay time: 74.0 
+Atlanta 10397, Scranton/Wilkes-Barre 10434,
+Max delay time: 11.0 
+Detroit 11433, Rochester 14576,
+Max delay time: 109.0 
+Denver 11292, Gunnison 12012,
+Max delay time: 154.0 
+Oklahoma City 13851, Dallas/Fort Worth 11298,
+Max delay time: 86.0 
+Cincinnati 11193, Boston 10721,
+Max delay time: 46.0 
+Charlotte Amalie 15024, Philadelphia 14100,
+Max delay time: 13.0 
+West Palm Beach/Palm Beach 14027, Charlotte 11057,
+Max delay time: 78.0 
+Chicago 13930, Jacksonville 12451,
+Max delay time: 70.0 
+Atlanta 10397, Fort Myers 14635,
+Max delay time: 119.0 
+San Antonio 14683, Tampa 15304,
+Max delay time: 2.0 
+Los Angeles 12892, West Palm Beach/Palm Beach 14027,
+Max delay time: 10.0 
+Lafayette 12951, Denver 11292,
+Max delay time: 0.0 
+Seattle 14747, Omaha 13871,
+Max delay time: 140.0 
+St. George 14794, Denver 11292,
+Max delay time: 0.0 
+Albuquerque 10140, Dallas/Fort Worth 11298,
+Max delay time: 27.0 
+Long Beach 12954, Boston 10721,
+Max delay time: 0.0 
+Richmond 14524, Fort Lauderdale 11697,
+Max delay time: 44.0 
+Houston 12266, Laredo 13061,
+Max delay time: 172.0 
+Kansas City 13198, Atlanta 10397,
+Max delay time: 160.0 
+Dallas 11259, Nashville 10693,
+Max delay time: 33.0 
+Hayden 12094, San Francisco 14771,
+Max delay time: 0.0 
+Richmond 14524, Atlanta 10397,
+Max delay time: 35.0 
+Harrisburg 13230, Detroit 11433,
+Max delay time: 0.0 
+Newark 11618, South Bend 14696,
+Max delay time: 139.0 
+Tampa 15304, Memphis 13244,
+Max delay time: 0.0 
+Gulfport/Biloxi 11973, Houston 12266,
+Max delay time: 107.0 
+Des Moines 11423, Las Vegas 12889,
+Max delay time: 0.0 
+Phoenix 14107, San Jose 14831,
+Max delay time: 110.0 
+Charlotte 11057, Indianapolis 12339,
+Max delay time: 37.0 
+New York 12478, Dallas/Fort Worth 11298,
+Max delay time: 1.0 
+Minneapolis 13487, Sacramento 14893,
+Max delay time: 0.0 
+Seattle 14747, Fresno 11638,
+Max delay time: 3.0 
+Charleston/Dunbar 11146, Atlanta 10397,
+Max delay time: 47.0 
+Miami 13303, Boston 10721,
+Max delay time: 77.0 
+New York 12953, Louisville 14730,
+Max delay time: 51.0 
+Washington 11278, Indianapolis 12339,
+Max delay time: 7.0 
+Flint 11721, Orlando 13204,
+Max delay time: 0.0 
+Grand Rapids 11986, Baltimore 10821,
+Max delay time: 4.0 
+Savannah 14685, Chicago 13930,
+Max delay time: 61.0 
+Las Vegas 12889, Portland 14057,
+Max delay time: 185.0 
+New York 12478, Miami 13303,
+Max delay time: 175.0 
+Washington 11278, Philadelphia 14100,
+Max delay time: 70.0 
+Boston 10721, Tampa 15304,
+Max delay time: 144.0 
+San Juan 14843, Charlotte 11057,
+Max delay time: 13.0 
+Newark 11618, Los Angeles 12892,
+Max delay time: 146.0 
+Orlando 13204, Bloomington/Normal 10685,
+Max delay time: 81.0 
+Nashville 10693, Charleston 10994,
+Max delay time: 2.0 
+Minneapolis 13487, Fayetteville 15919,
+Max delay time: 10.0 
+Anchorage 10299, San Francisco 14771,
+Max delay time: 38.0 
+Oklahoma City 13851, Los Angeles 12892,
+Max delay time: 9.0 
+St. Louis 15016, Houston 12266,
+Max delay time: 0.0 
+Colorado Springs 11109, Houston 12266,
+Max delay time: 22.0 
+Newark 11618, Las Vegas 12889,
+Max delay time: 29.0 
+Seattle 14747, Houston 12266,
+Max delay time: 120.0 
+San Jose 14831, Honolulu 12173,
+Max delay time: 17.0 
+Fort Lauderdale 11697, Seattle 14747,
+Max delay time: 7.0 
+Greensboro/High Point 11995, Atlanta 10397,
+Max delay time: 31.0 
+Eagle 11503, Houston 12266,
+Max delay time: 44.0 
+Oklahoma City 13851, Chicago 13930,
+Max delay time: 265.0 
+Newark 11618, Santa Ana 14908,
+Max delay time: 20.0 
+Milwaukee 13342, Minneapolis 13487,
+Max delay time: 19.0 
+Atlanta 10397, Shreveport 14814,
+Max delay time: 61.0 
+Denver 11292, Detroit 11433,
+Max delay time: 167.0 
+Fort Lauderdale 11697, Boston 10721,
+Max delay time: 21.0 
+Fort Wayne 11823, Atlanta 10397,
+Max delay time: 0.0 
+Myrtle Beach 13577, Atlantic City 10158,
+Max delay time: 0.0 
+Atlanta 10397, El Paso 11540,
+Max delay time: 16.0 
+Minneapolis 13487, Nashville 10693,
+Max delay time: 20.0 
+Houston 12266, Jackson 12441,
+Max delay time: 0.0 
+Portland 14057, Minneapolis 13487,
+Max delay time: 42.0 
+Atlanta 10397, West Palm Beach/Palm Beach 14027,
+Max delay time: 20.0 
+Baltimore 10821, Birmingham 10599,
+Max delay time: 96.0 
+Denver 11292, Durango 11413,
+Max delay time: 122.0 
+Nashville 10693, Los Angeles 12892,
+Max delay time: 41.0 
+Santa Ana 14908, San Jose 14831,
+Max delay time: 43.0 
+Seattle 14747, Baltimore 10821,
+Max delay time: 0.0 
+Chicago 13930, Reno 14570,
+Max delay time: 0.0 
+Flint 11721, Las Vegas 12889,
+Max delay time: 0.0 
+Kahului 13830, Portland 14057,
+Max delay time: 0.0 
+Aguadilla 10732, New York 12478,
+Max delay time: 2.0 
+Austin 10423, Atlanta 10397,
+Max delay time: 95.0 
+Chicago 13232, Trenton 15356,
+Max delay time: 95.0 
+Charlotte 11057, West Palm Beach/Palm Beach 14027,
+Max delay time: 14.0 
+Hartford 10529, Tampa 15304,
+Max delay time: 21.0 
+Hayden 12094, Denver 11292,
+Max delay time: 158.0 
+Las Vegas 12889, Flint 11721,
+Max delay time: 0.0 
+Atlanta 10397, Houston 12191,
+Max delay time: 143.0 
+Aspen 10372, San Francisco 14771,
+Max delay time: 14.0 
+Nashville 10693, San Antonio 14683,
+Max delay time: 62.0 
+Cincinnati 11193, Atlanta 10397,
+Max delay time: 4.0 
+Houston 12266, San Juan 14843,
+Max delay time: 18.0 
+Wichita 12278, Dallas/Fort Worth 11298,
+Max delay time: 468.0 
+San Jose 14831, Kahului 13830,
+Max delay time: 111.0 
+Dallas/Fort Worth 11298, Montrose/Delta 13502,
+Max delay time: 38.0 
+Washington 11278, West Palm Beach/Palm Beach 14027,
+Max delay time: 107.0 
+Portland 14057, Phoenix 14107,
+Max delay time: 126.0 
+Detroit 11433, Memphis 13244,
+Max delay time: 2.0 
+Paducah 14006, Chicago 13930,
+Max delay time: 297.0 
+New York 12953, Denver 11292,
+Max delay time: 107.0 
+New York 12953, Chicago 13232,
+Max delay time: 182.0 
+Rochester 14633, Chicago 13930,
+Max delay time: 117.0 
+Harrisburg 13230, Atlanta 10397,
+Max delay time: 31.0 
+Huntsville 12217, Denver 11292,
+Max delay time: 0.0 
+Oakland 13796, Honolulu 12173,
+Max delay time: 0.0 
+Houston 12191, Raleigh/Durham 14492,
+Max delay time: 18.0 
+Deadhorse 14709, Barrow 10754,
+Max delay time: 306.0 
+Kansas City 13198, Dallas/Fort Worth 11298,
+Max delay time: 97.0 
+Syracuse 15096, Newark 11618,
+Max delay time: 0.0 
+Springfield 14783, Atlanta 10397,
+Max delay time: 135.0 
+Denver 11292, Burbank 10800,
+Max delay time: 192.0 
+Birmingham 10599, Dallas/Fort Worth 11298,
+Max delay time: 68.0 
+Omaha 13871, Chicago 13930,
+Max delay time: 135.0 
+Phoenix 14107, Louisville 14730,
+Max delay time: 42.0 
+Tampa 15304, Pittsburgh 14122,
+Max delay time: 12.0 
+Savannah 14685, New York 12478,
+Max delay time: 55.0 
+Phoenix 14107, Kansas City 13198,
+Max delay time: 226.0 
+Orlando 13204, Syracuse 15096,
+Max delay time: 78.0 
+Chicago 13930, Grand Rapids 11986,
+Max delay time: 122.0 
+New York 12478, Nashville 10693,
+Max delay time: 30.0 
+Houston 12266, Shreveport 14814,
+Max delay time: 52.0 
+El Paso 11540, Atlanta 10397,
+Max delay time: 4.0 
+Baltimore 10821, Atlanta 10397,
+Max delay time: 228.0 
+Chicago 13232, Little Rock 12992,
+Max delay time: 10.0 
+Salt Lake City 14869, Grand Junction 11921,
+Max delay time: 4.0 
+White Plains 12197, Fort Myers 14635,
+Max delay time: 62.0 
+Anchorage 10299, Seattle 14747,
+Max delay time: 138.0 
+Minneapolis 13487, Rhinelander 14520,
+Max delay time: 49.0 
+Newark 11618, San Diego 14679,
+Max delay time: 13.0 
+Fort Lauderdale 11697, Pittsburgh 14122,
+Max delay time: 94.0 
+Harlingen/San Benito 12206, Houston 12266,
+Max delay time: 5.0 
+San Diego 14679, Chicago 13232,
+Max delay time: 25.0 
+San Jose 14831, Seattle 14747,
+Max delay time: 189.0 
+Portland 14321, Atlanta 10397,
+Max delay time: 0.0 
+Denver 11292, Jacksonville 12451,
+Max delay time: 0.0 
+Denver 11292, Albuquerque 10140,
+Max delay time: 120.0 
+Denver 11292, Tucson 15376,
+Max delay time: 80.0 
+Great Falls 12003, Denver 11292,
+Max delay time: 38.0 
+Chicago 13232, Detroit 11433,
+Max delay time: 116.0 
+Chicago 13930, Eau Claire 11471,
+Max delay time: 264.0 
+Seattle 14747, Washington 11278,
+Max delay time: 19.0 
+Hartford 10529, Fort Myers 14635,
+Max delay time: 0.0 
+Eagle 11503, Newark 11618,
+Max delay time: 90.0 
+San Antonio 14683, Dallas 11259,
+Max delay time: 47.0 
+Santa Fe 14674, Denver 11292,
+Max delay time: 95.0 
+Richmond 14524, Minneapolis 13487,
+Max delay time: 100.0 
+Louisville 14730, Washington 12264,
+Max delay time: 4.0 
+Miami 13303, Baltimore 10821,
+Max delay time: 17.0 
+Burbank 10800, Seattle 14747,
+Max delay time: 120.0 
+Denver 11292, Austin 10423,
+Max delay time: 56.0 
+Amarillo 10279, Denver 11292,
+Max delay time: 171.0 
+Dallas/Fort Worth 11298, Philadelphia 14100,
+Max delay time: 336.0 
+Los Angeles 12892, Honolulu 12173,
+Max delay time: 151.0 
+Charlottesville 10990, New York 12953,
+Max delay time: 113.0 
+St. George 14794, Salt Lake City 14869,
+Max delay time: 213.0 
+San Diego 14679, Phoenix 14107,
+Max delay time: 70.0 
+Los Angeles 12892, Kansas City 13198,
+Max delay time: 37.0 
+Houston 12266, Fort Lauderdale 11697,
+Max delay time: 60.0 
+Denver 11292, Oakland 13796,
+Max delay time: 66.0 
+Salt Lake City 14869, New York 12478,
+Max delay time: 395.0 
+Charlotte 11057, Atlanta 10397,
+Max delay time: 105.0 
+San Francisco 14771, Bozeman 10849,
+Max delay time: 0.0 
+Chicago 13232, Phoenix 14107,
+Max delay time: 154.0 
+Dallas/Fort Worth 11298, St. Louis 15016,
+Max delay time: 141.0 
+Miami 13303, Gainesville 11953,
+Max delay time: 3.0 
+Dallas/Fort Worth 11298, Norfolk 13931,
+Max delay time: 53.0 
+Austin 10423, San Diego 14679,
+Max delay time: 18.0 
+Jacksonville 12451, Houston 12191,
+Max delay time: 0.0 
+San Juan 14843, Tampa 15304,
+Max delay time: 161.0 
+Pueblo 14288, Denver 11292,
+Max delay time: 57.0 
+Cincinnati 11193, St. Louis 15016,
+Max delay time: 79.0 
+Jamestown 12519, Denver 11292,
+Max delay time: 74.0 
+New York 12478, Los Angeles 12892,
+Max delay time: 176.0 
+Petersburg 14256, Wrangell 15841,
+Max delay time: 31.0 
+St. Louis 15016, San Francisco 14771,
+Max delay time: 5.0 
+Grand Rapids 11986, Fort Myers 14635,
+Max delay time: 4.0 
+Chicago 13232, San Francisco 14771,
+Max delay time: 55.0 
+Chicago 13930, Champaign/Urbana 11067,
+Max delay time: 129.0 
+Las Vegas 12889, Wichita 12278,
+Max delay time: 31.0 
+Austin 10423, Charlotte 11057,
+Max delay time: 88.0 
+Ontario 13891, Houston 12266,
+Max delay time: 3.0 
+Omaha 13871, Chicago 13232,
+Max delay time: 34.0 
+Dallas/Fort Worth 11298, Kahului 13830,
+Max delay time: 261.0 
+Oklahoma City 13851, Minneapolis 13487,
+Max delay time: 14.0 
+Kansas City 13198, San Diego 14679,
+Max delay time: 0.0 
+Houston 12266, Corpus Christi 11140,
+Max delay time: 89.0 
+Spokane 11884, Phoenix 14107,
+Max delay time: 31.0 
+Sacramento 14893, Dallas/Fort Worth 11298,
+Max delay time: 716.0 
+Los Angeles 12892, Wichita 12278,
+Max delay time: 138.0 
+Greensboro/High Point 11995, Dallas/Fort Worth 11298,
+Max delay time: 89.0 
+Houston 12266, Charleston/Dunbar 11146,
+Max delay time: 17.0 
+Newark 11618, Indianapolis 12339,
+Max delay time: 35.0 
+Memphis 13244, Tampa 15304,
+Max delay time: 0.0 
+St. Louis 15016, Kansas City 13198,
+Max delay time: 0.0 
+Milwaukee 13342, Cincinnati 11193,
+Max delay time: 6.0 
+Washington 12264, Cincinnati 11193,
+Max delay time: 68.0 
+Tampa 15304, San Antonio 14683,
+Max delay time: 33.0 
+Trenton 15356, Atlanta 10397,
+Max delay time: 32.0 
+Mission/McAllen/Edinburg 13256, Dallas/Fort Worth 11298,
+Max delay time: 381.0 
+Denver 11292, Huntsville 12217,
+Max delay time: 19.0 
+Cleveland 11042, Los Angeles 12892,
+Max delay time: 0.0 
+Providence 14307, Newark 11618,
+Max delay time: 101.0 
+St. Louis 15016, Cincinnati 11193,
+Max delay time: 0.0 
+Dallas/Fort Worth 11298, Bismarck/Mandan 10627,
+Max delay time: 90.0 
+Chicago 13232, Fort Myers 14635,
+Max delay time: 98.0 
+Charleston 10994, Houston 12191,
+Max delay time: 0.0 
+Gulfport/Biloxi 11973, Dallas/Fort Worth 11298,
+Max delay time: 12.0 
+Chicago 13930, St. Louis 15016,
+Max delay time: 229.0 
+Houston 12266, Nashville 10693,
+Max delay time: 123.0 
+Fort Lauderdale 11697, St. Louis 15016,
+Max delay time: 22.0 
+Honolulu 12173, Los Angeles 12892,
+Max delay time: 185.0 
+Los Angeles 12892, Tucson 15376,
+Max delay time: 53.0 
+Chicago 13930, Erie 11577,
+Max delay time: 70.0 
+Denver 11292, West Palm Beach/Palm Beach 14027,
+Max delay time: 0.0 
+Richmond 14524, New York 12953,
+Max delay time: 130.0 
+Baltimore 10821, Little Rock 12992,
+Max delay time: 114.0 
+San Jose 14831, Kona 12758,
+Max delay time: 9.0 
+Washington 11278, Charlotte 11057,
+Max delay time: 263.0 
+Indianapolis 12339, Newark 11618,
+Max delay time: 48.0 
+Newark 11618, Aguadilla 10732,
+Max delay time: 109.0 
+Palm Springs 14262, Portland 14057,
+Max delay time: 9.0 
+Dallas 11259, Amarillo 10279,
+Max delay time: 41.0 
+San Francisco 14771, Crescent City 10930,
+Max delay time: 138.0 
+Boston 10721, Las Vegas 12889,
+Max delay time: 79.0 
+Boston 10721, Buffalo 10792,
+Max delay time: 5.0 
+Wichita 12278, Los Angeles 12892,
+Max delay time: 11.0 
+Latrobe 12898, Fort Lauderdale 11697,
+Max delay time: 11.0 
+Phoenix 14107, Oklahoma City 13851,
+Max delay time: 42.0 
+Pittsburgh 14122, Tampa 15304,
+Max delay time: 106.0 
+San Francisco 14771, Cincinnati 11193,
+Max delay time: 0.0 
+Seattle 14747, Hayden 12094,
+Max delay time: 20.0 
+Latrobe 12898, Tampa 15304,
+Max delay time: 31.0 
+Philadelphia 14100, Raleigh/Durham 14492,
+Max delay time: 61.0 
+Chicago 13232, Newark 11618,
+Max delay time: 27.0 
+Washington 11278, Cleveland 11042,
+Max delay time: 13.0 
+Los Angeles 12892, Orlando 13204,
+Max delay time: 26.0 
+Sioux Falls 11775, Minneapolis 13487,
+Max delay time: 65.0 
+Rochester 14576, Chicago 13232,
+Max delay time: 117.0 
+Nashville 10693, Jacksonville 12451,
+Max delay time: 95.0 
+Portland 14057, Ontario 13891,
+Max delay time: 60.0 
+Huntsville 12217, Atlanta 10397,
+Max delay time: 59.0 
+Saginaw/Bay City/Midland 13184, Atlanta 10397,
+Max delay time: 30.0 
+Kahului 13830, Oakland 13796,
+Max delay time: 156.0 
+Kahului 13830, Bellingham 10666,
+Max delay time: 3.0 
+Charlotte Amalie 15024, Miami 13303,
+Max delay time: 46.0 
+Detroit 11433, Providence 14307,
+Max delay time: 79.0 
+Kahului 13830, Phoenix 14107,
+Max delay time: 0.0 
+Dallas/Fort Worth 11298, Miami 13303,
+Max delay time: 102.0 
+San Diego 14679, Boston 10721,
+Max delay time: 25.0 
+Denver 11292, Pittsburgh 14122,
+Max delay time: 57.0 
+Miami 13303, Christiansted 15027,
+Max delay time: 12.0 
+Chicago 13930, Fargo 11637,
+Max delay time: 89.0 
+Lubbock 12896, Las Vegas 12889,
+Max delay time: 0.0 
+New Orleans 13495, Dallas 11259,
+Max delay time: 72.0 
+Amarillo 10279, Dallas/Fort Worth 11298,
+Max delay time: 44.0 
+Orlando 13204, Washington 11278,
+Max delay time: 172.0 
+Houston 12266, Richmond 14524,
+Max delay time: 81.0 
+Pittsburgh 14122, Fort Lauderdale 11697,
+Max delay time: 29.0 
+Fort Myers 14635, New York 12953,
+Max delay time: 68.0 
+Columbus 11066, New York 12953,
+Max delay time: 78.0 
+San Juan 14843, Washington 12264,
+Max delay time: 37.0 
+Tampa 15304, Denver 11292,
+Max delay time: 80.0 
+Fort Lauderdale 11697, New Orleans 13495,
+Max delay time: 155.0 
+Los Angeles 12892, Bend/Redmond 14489,
+Max delay time: 2.0 
+Houston 12266, Aspen 10372,
+Max delay time: 96.0 
+Midland/Odessa 13158, Houston 12266,
+Max delay time: 248.0 
+Salt Lake City 14869, Cedar City 10918,
+Max delay time: 15.0 
+New York 12478, Sarasota/Bradenton 14986,
+Max delay time: 0.0 
+Houston 12266, Pittsburgh 14122,
+Max delay time: 10.0 
+Honolulu 12173, Dallas/Fort Worth 11298,
+Max delay time: 70.0 
+Chicago 13930, Richmond 14524,
+Max delay time: 175.0 
+Houston 12191, Baltimore 10821,
+Max delay time: 31.0 
+Newark 11618, Montrose/Delta 13502,
+Max delay time: 0.0 
+Manchester 13296, New York 12953,
+Max delay time: 270.0 
+Oklahoma City 13851, Houston 12266,
+Max delay time: 50.0 
+Dallas 11259, St. Louis 15016,
+Max delay time: 103.0 
+Houston 12266, Tyler 15411,
+Max delay time: 18.0 
+Atlanta 10397, San Diego 14679,
+Max delay time: 56.0 
+Savannah 14685, Boston 10721,
+Max delay time: 0.0 
+Houston 12266, Charlotte 11057,
+Max delay time: 224.0 
+Chicago 13930, Charleston 10994,
+Max delay time: 37.0 
+Hibbing 12129, Minneapolis 13487,
+Max delay time: 2.0 
+Ketchikan 12819, Seattle 14747,
+Max delay time: 118.0 
+Milwaukee 13342, Denver 11292,
+Max delay time: 90.0 
+El Paso 11540, Denver 11292,
+Max delay time: 138.0 
+San Francisco 14771, Medford 13264,
+Max delay time: 41.0 
+Moab 11092, Salt Lake City 14869,
+Max delay time: 0.0 
+International Falls 12343, Hibbing 12129,
+Max delay time: 18.0 
+Trenton 15356, Fort Lauderdale 11697,
+Max delay time: 0.0 
+Fort Lauderdale 11697, Columbus 11066,
+Max delay time: 50.0 
+New York 12478, Austin 10423,
+Max delay time: 194.0 
+Minneapolis 13487, Washington 12264,
+Max delay time: 0.0 
+Orlando 13204, San Antonio 14683,
+Max delay time: 0.0 
+Los Angeles 12892, San Antonio 14683,
+Max delay time: 68.0 
+New York 12478, San Juan 14843,
+Max delay time: 166.0 
+Honolulu 12173, Lihue 12982,
+Max delay time: 28.0 
+Chicago 13232, Des Moines 11423,
+Max delay time: 88.0 
+Miami 13303, Key West 11624,
+Max delay time: 3.0 
+San Francisco 14771, Los Angeles 12892,
+Max delay time: 130.0 
+Dallas 11259, Orlando 13204,
+Max delay time: 6.0 
+Dallas/Fort Worth 11298, Mission/McAllen/Edinburg 13256,
+Max delay time: 126.0 
+Chicago 13930, Saginaw/Bay City/Midland 13184,
+Max delay time: 62.0 
+Moline 13367, Detroit 11433,
+Max delay time: 86.0 
+Houston 12266, Fort Myers 14635,
+Max delay time: 11.0 
+Chicago 13930, Colorado Springs 11109,
+Max delay time: 123.0 
+Dallas/Fort Worth 11298, Oakland 13796,
+Max delay time: 18.0 
+New York 12953, Miami 13303,
+Max delay time: 207.0 
+Minneapolis 13487, Wichita 12278,
+Max delay time: 29.0 
+Jacksonville 12451, Nashville 10693,
+Max delay time: 18.0 
+Miami 13303, New York 12953,
+Max delay time: 99.0 
+Oklahoma City 13851, Salt Lake City 14869,
+Max delay time: 3.0 
+Charleston 10994, Nashville 10693,
+Max delay time: 96.0 
+Tampa 15304, Grand Rapids 11986,
+Max delay time: 0.0 
+New York 12478, Chicago 13930,
+Max delay time: 128.0 
+Madison 13485, Dallas/Fort Worth 11298,
+Max delay time: 339.0 
+Rochester 14576, Atlanta 10397,
+Max delay time: 30.0 
+Albany 10257, Detroit 11433,
+Max delay time: 0.0 
+Dallas/Fort Worth 11298, Orlando 13204,
+Max delay time: 42.0 
+Las Vegas 12889, Phoenix 14107,
+Max delay time: 160.0 
+Portland 14057, Anchorage 10299,
+Max delay time: 3.0 
+San Francisco 14771, Fresno 11638,
+Max delay time: 82.0 
+Williston 12389, Minneapolis 13487,
+Max delay time: 25.0 
+Philadelphia 14100, Denver 11292,
+Max delay time: 56.0 
+San Diego 14679, Austin 10423,
+Max delay time: 41.0 
+Richmond 14524, Orlando 13204,
+Max delay time: 6.0 
+Nome 13873, Kotzebue 13970,
+Max delay time: 0.0 
+Denver 11292, Kahului 13830,
+Max delay time: 98.0 
+Jacksonville 12451, New York 12953,
+Max delay time: 0.0 
+Baltimore 10821, St. Louis 15016,
+Max delay time: 118.0 
+Phoenix 14107, Houston 12191,
+Max delay time: 63.0 
+Tampa 15304, Boston 10721,
+Max delay time: 184.0 
+Atlanta 10397, Jacksonville/Camp Lejeune 13795,
+Max delay time: 33.0 
+Pittsburgh 14122, Las Vegas 12889,
+Max delay time: 55.0 
+Salt Lake City 14869, Phoenix 14107,
+Max delay time: 79.0 
+Chicago 13930, Syracuse 15096,
+Max delay time: 110.0 
+Dallas/Fort Worth 11298, Savannah 14685,
+Max delay time: 34.0 
+Hayden 12094, Los Angeles 12892,
+Max delay time: 106.0 
+Atlanta 10397, Raleigh/Durham 14492,
+Max delay time: 94.0 
+Wichita 12278, Houston 12266,
+Max delay time: 20.0 
+Minneapolis 13487, Grand Forks 11898,
+Max delay time: 7.0 
+Jacksonville 12451, Atlanta 10397,
+Max delay time: 98.0 
+Chicago 13930, Palm Springs 14262,
+Max delay time: 0.0 
+Akron 10874, Tampa 15304,
+Max delay time: 0.0 
+Washington 12264, Newark 11618,
+Max delay time: 68.0 
+Miami 13303, Houston 12266,
+Max delay time: 116.0 
+Atlanta 10397, Baton Rouge 10781,
+Max delay time: 200.0 
+Chicago 13232, Jacksonville 12451,
+Max delay time: 83.0 
+Cleveland 11042, Houston 12266,
+Max delay time: 22.0 
+Reno 14570, San Diego 14679,
+Max delay time: 14.0 
+Dallas/Fort Worth 11298, Omaha 13871,
+Max delay time: 23.0 
+Trenton 15356, West Palm Beach/Palm Beach 14027,
+Max delay time: 132.0 
+San Francisco 14771, Baltimore 10821,
+Max delay time: 5.0 
+Chicago 13930, Anchorage 10299,
+Max delay time: 22.0 
+Denver 11292, Lubbock 12896,
+Max delay time: 58.0 
+Chattanooga 10980, Dallas/Fort Worth 11298,
+Max delay time: 44.0 
+New Orleans 13495, Atlanta 10397,
+Max delay time: 292.0 
+Fort Myers 14635, Pittsburgh 14122,
+Max delay time: 0.0 
+New York 12953, Washington 12264,
+Max delay time: 118.0 
+Salt Lake City 14869, Fargo 11637,
+Max delay time: 1.0 
+Tulsa 15370, Salt Lake City 14869,
+Max delay time: 7.0 
+Atlanta 10397, San Juan 14843,
+Max delay time: 53.0 
+Oakland 13796, Austin 10423,
+Max delay time: 10.0 
+Sioux City 15048, Chicago 13930,
+Max delay time: 133.0 
+Miami 13303, Denver 11292,
+Max delay time: 91.0 
+Minneapolis 13487, Flint 11721,
+Max delay time: 0.0 
+Salt Lake City 14869, Moab 11092,
+Max delay time: 0.0 
+Providence 14307, Washington 12264,
+Max delay time: 46.0 
+San Diego 14679, Charlotte 11057,
+Max delay time: 17.0 
+New York 12478, New Orleans 13495,
+Max delay time: 11.0 
+Washington 12264, Las Vegas 12889,
+Max delay time: 20.0 
+Washington 12264, Columbus 11066,
+Max delay time: 89.0 
+Charlotte 11057, Nashville 10693,
+Max delay time: 10.0 
+Atlanta 10397, Key West 11624,
+Max delay time: 0.0 
+Dallas/Fort Worth 11298, Fort Lauderdale 11697,
+Max delay time: 107.0 
+Denver 11292, Bakersfield 10561,
+Max delay time: 96.0 
+Allentown/Bethlehem/Easton 10135, Atlanta 10397,
+Max delay time: 20.0 
+San Diego 14679, Houston 12191,
+Max delay time: 79.0 
+Fort Lauderdale 11697, Charlotte 11057,
+Max delay time: 11.0 
+Milwaukee 13342, Kansas City 13198,
+Max delay time: 26.0 
+Atlanta 10397, Brunswick 10731,
+Max delay time: 187.0 
+San Francisco 14771, Washington 12264,
+Max delay time: 104.0 
+Kansas City 13198, Charlotte 11057,
+Max delay time: 24.0 
+Tucson 15376, Houston 12266,
+Max delay time: 238.0 
+Chicago 13930, Columbia 10868,
+Max delay time: 72.0 
+Charlotte 11057, Albany 10257,
+Max delay time: 15.0 
+Kalispell 11648, Denver 11292,
+Max delay time: 115.0 
+Houston 12191, Indianapolis 12339,
+Max delay time: 5.0 
+Lihue 12982, Kahului 13830,
+Max delay time: 11.0 
+Flint 11721, Atlanta 10397,
+Max delay time: 7.0 
+Albuquerque 10140, San Francisco 14771,
+Max delay time: 41.0 
+Orlando 13204, Providence 14307,
+Max delay time: 83.0 
+St. Louis 15016, Tampa 15304,
+Max delay time: 57.0 
+Billings 10620, Salt Lake City 14869,
+Max delay time: 11.0 
+St. Louis 15016, Washington 11278,
+Max delay time: 33.0 
+Trenton 15356, St. Augustine 15497,
+Max delay time: 0.0 
+New York 12953, New Orleans 13495,
+Max delay time: 0.0 
+Nashville 10693, Philadelphia 14100,
+Max delay time: 48.0 
+Chicago 13930, St. Cloud 15008,
+Max delay time: 76.0 
+New York 12953, West Palm Beach/Palm Beach 14027,
+Max delay time: 104.0 
+Nashville 10693, San Diego 14679,
+Max delay time: 7.0 
+Omaha 13871, Phoenix 14107,
+Max delay time: 3.0 
+Los Angeles 12892, Kahului 13830,
+Max delay time: 272.0 
+Orlando 13204, Fort Lauderdale 11697,
+Max delay time: 237.0 
+Colorado Springs 11109, Denver 11292,
+Max delay time: 199.0 
+Dallas/Fort Worth 11298, Lawton/Fort Sill 12891,
+Max delay time: 45.0 
+Washington 11278, Jacksonville 12451,
+Max delay time: 17.0 
+Atlanta 10397, San Francisco 14771,
+Max delay time: 66.0 
+Chicago 13930, Rochester 14576,
+Max delay time: 163.0 
+Los Angeles 12892, Fort Lauderdale 11697,
+Max delay time: 72.0 
+Albuquerque 10140, Houston 12191,
+Max delay time: 18.0 
+Santa Ana 14908, Houston 12266,
+Max delay time: 18.0 
+Dallas 11259, San Diego 14679,
+Max delay time: 10.0 
+Atlantic City 10158, Tampa 15304,
+Max delay time: 54.0 
+Dayton 11267, Baltimore 10821,
+Max delay time: 0.0 
+Jacksonville 12451, Charlotte 11057,
+Max delay time: 54.0 
+Hartford 10529, Charlotte 11057,
+Max delay time: 171.0 
+San Jose 14831, Lihue 12982,
+Max delay time: 0.0 
+Denver 11292, Springfield 14783,
+Max delay time: 223.0 
+Grand Rapids 11986, Tampa 15304,
+Max delay time: 0.0 
+Raleigh/Durham 14492, Houston 12266,
+Max delay time: 126.0 
+Philadelphia 14100, Indianapolis 12339,
+Max delay time: 0.0 
+Washington 12264, Detroit 11433,
+Max delay time: 43.0 
+San Diego 14679, Seattle 14747,
+Max delay time: 84.0 
+Houston 12191, Boston 10721,
+Max delay time: 116.0 
+Dallas/Fort Worth 11298, Washington 12264,
+Max delay time: 31.0 
+Denver 11292, Sacramento 14893,
+Max delay time: 110.0 
+Barrow 10754, Fairbanks 11630,
+Max delay time: 0.0 
+Phoenix 14107, Sacramento 14893,
+Max delay time: 66.0 
+Memphis 13244, Charlotte 11057,
+Max delay time: 196.0 
+Chicago 13930, Tucson 15376,
+Max delay time: 138.0 
+Akron 10874, Boston 10721,
+Max delay time: 0.0 
+Columbus 11066, Orlando 13204,
+Max delay time: 13.0 
+New York 12953, Akron 10874,
+Max delay time: 38.0 
+Lihue 12982, Denver 11292,
+Max delay time: 0.0 
+Akron 10874, Chicago 13930,
+Max delay time: 23.0 
+Philadelphia 14100, Nashville 10693,
+Max delay time: 80.0 
+Duluth 11337, Chicago 13930,
+Max delay time: 16.0 
+Kalispell 11648, Minneapolis 13487,
+Max delay time: 0.0 
+Chicago 13930, New York 12953,
+Max delay time: 151.0 
+Atlanta 10397, Greer 11996,
+Max delay time: 149.0 
+Louisville 14730, Newark 11618,
+Max delay time: 41.0 
+Dallas/Fort Worth 11298, Atlanta 10397,
+Max delay time: 174.0 
+Denver 11292, Dallas 11259,
+Max delay time: 59.0 
+Washington 12264, San Francisco 14771,
+Max delay time: 61.0 
+San Diego 14679, Tucson 15376,
+Max delay time: 62.0 
+Nashville 10693, Washington 11278,
+Max delay time: 65.0 
+Bristol/Johnson City/Kingsport 15323, Atlanta 10397,
+Max delay time: 35.0 
+Los Angeles 12892, Palm Springs 14262,
+Max delay time: 67.0 
+Ontario 13891, Salt Lake City 14869,
+Max delay time: 133.0 
+Pittsburgh 14122, Chicago 13930,
+Max delay time: 291.0 
+Portland 14057, Newark 11618,
+Max delay time: 2.0 
+Philadelphia 14100, Las Vegas 12889,
+Max delay time: 147.0 
+San Francisco 14771, Phoenix 14107,
+Max delay time: 58.0 
+Atlanta 10397, Charlottesville 10990,
+Max delay time: 102.0 
+Los Angeles 12892, Boise 10713,
+Max delay time: 76.0 
+New York 12478, Savannah 14685,
+Max delay time: 23.0 
+Chicago 13930, Madison 13485,
+Max delay time: 251.0 
+Houston 12266, Phoenix 14107,
+Max delay time: 135.0 
+Denver 11292, Dallas/Fort Worth 11298,
+Max delay time: 302.0 
+Minneapolis 13487, Santa Ana 14908,
+Max delay time: 5.0 
+Los Angeles 12892, Las Vegas 12889,
+Max delay time: 193.0 
+Detroit 11433, Burlington 10785,
+Max delay time: 144.0 
+Denver 11292, Santa Fe 14674,
+Max delay time: 22.0 
+Atlanta 10397, Madison 13485,
+Max delay time: 0.0 
+Spokane 11884, Boise 10713,
+Max delay time: 102.0 
+Akron 10874, Fort Myers 14635,
+Max delay time: 9.0 
+New York 12478, Las Vegas 12889,
+Max delay time: 80.0 
+Phoenix 14107, San Antonio 14683,
+Max delay time: 42.0 
+Denver 11292, Raleigh/Durham 14492,
+Max delay time: 9.0 
+Pittsburgh 14122, Fort Myers 14635,
+Max delay time: 0.0 
+Houston 12266, Eagle 11503,
+Max delay time: 3.0 
+Atlanta 10397, Monroe 13377,
+Max delay time: 161.0 
+Dallas/Fort Worth 11298, Charleston/Dunbar 11146,
+Max delay time: 12.0 
+Fort Lauderdale 11697, Washington 12264,
+Max delay time: 60.0 
+Las Vegas 12889, Tampa 15304,
+Max delay time: 30.0 
+Valparaiso 15624, Atlanta 10397,
+Max delay time: 37.0 
+Las Vegas 12889, Santa Ana 14908,
+Max delay time: 63.0 
+Miami 13303, Los Angeles 12892,
+Max delay time: 218.0 
+Fort Lauderdale 11697, Minneapolis 13487,
+Max delay time: 57.0 
+New York 12478, Fort Lauderdale 11697,
+Max delay time: 269.0 
+Tampa 15304, Louisville 14730,
+Max delay time: 7.0 
+Orlando 13204, Grand Rapids 11986,
+Max delay time: 141.0 
+Houston 12191, Jacksonville 12451,
+Max delay time: 66.0 
+Houston 12191, Panama City 11481,
+Max delay time: 19.0 
+Brainerd 10739, International Falls 12343,
+Max delay time: 0.0 
+Killeen 11982, Houston 12266,
+Max delay time: 16.0 
+Chicago 13232, Washington 12264,
+Max delay time: 3.0 
+Washington 12264, San Juan 14843,
+Max delay time: 131.0 
+Oakland 13796, Santa Ana 14908,
+Max delay time: 50.0 
+Kona 12758, Portland 14057,
+Max delay time: 0.0 
+Minneapolis 13487, Indianapolis 12339,
+Max delay time: 0.0 
+New York 12478, Sacramento 14893,
+Max delay time: 10.0 
+Tampa 15304, Chicago 13232,
+Max delay time: 43.0 
+Eagle 11503, Chicago 13930,
+Max delay time: 0.0 
+Flagstaff 11695, Phoenix 14107,
+Max delay time: 197.0 
+Louisville 14730, Houston 12266,
+Max delay time: 8.0 
+Houston 12266, Orlando 13204,
+Max delay time: 77.0 
+Orlando 13204, San Francisco 14771,
+Max delay time: 50.0 
+Fort Myers 14635, Columbus 11066,
+Max delay time: 294.0 
+Newark 11618, St. Louis 15016,
+Max delay time: 23.0 
+Minneapolis 13487, Cedar Rapids/Iowa City 11003,
+Max delay time: 206.0 
+Seattle 14747, Los Angeles 12892,
+Max delay time: 65.0 
+Dallas 11259, New York 12953,
+Max delay time: 103.0 
+Lihue 12982, Seattle 14747,
+Max delay time: 49.0 
+New York 12953, Charlottesville 10990,
+Max delay time: 104.0 
+Oakland 13796, Chicago 13930,
+Max delay time: 1.0 
+Chattanooga 10980, Detroit 11433,
+Max delay time: 40.0 
+Dallas/Fort Worth 11298, Austin 10423,
+Max delay time: 123.0 
+San Francisco 14771, Redding 14487,
+Max delay time: 134.0 
+San Diego 14679, Boise 10713,
+Max delay time: 52.0 
+Detroit 11433, Elmira/Corning 11537,
+Max delay time: 48.0 
+Salt Lake City 14869, Honolulu 12173,
+Max delay time: 3.0 
+Charlotte 11057, Denver 11292,
+Max delay time: 66.0 
+Atlanta 10397, Lexington 12945,
+Max delay time: 136.0 
+Norfolk 13931, Washington 12264,
+Max delay time: 0.0 
+White Plains 12197, Tampa 15304,
+Max delay time: 20.0 
+Los Angeles 12892, Atlanta 10397,
+Max delay time: 44.0 
+Denver 11292, Sioux Falls 11775,
+Max delay time: 165.0 
+Bend/Redmond 14489, Salt Lake City 14869,
+Max delay time: 8.0 
+Kansas City 13198, Salt Lake City 14869,
+Max delay time: 22.0 
+San Juan 14843, Orlando 13204,
+Max delay time: 88.0 
+Fayetteville 15919, New York 12953,
+Max delay time: 159.0 
+Boston 10721, Cincinnati 11193,
+Max delay time: 1.0 
+White Plains 12197, West Palm Beach/Palm Beach 14027,
+Max delay time: 87.0 
+Anchorage 10299, Honolulu 12173,
+Max delay time: 9.0 
+Oklahoma City 13851, Denver 11292,
+Max delay time: 97.0 
+Atlanta 10397, Greensboro/High Point 11995,
+Max delay time: 27.0 
+Dallas/Fort Worth 11298, Cincinnati 11193,
+Max delay time: 128.0 
+Newark 11618, Des Moines 11423,
+Max delay time: 21.0 
+Newark 11618, New Orleans 13495,
+Max delay time: 151.0 
+Minneapolis 13487, Dallas/Fort Worth 11298,
+Max delay time: 104.0 
+New York 12478, Washington 12264,
+Max delay time: 43.0 
+Boston 10721, Atlanta 10397,
+Max delay time: 134.0 
+Detroit 11433, Evansville 11612,
+Max delay time: 17.0 
+Phoenix 14107, Portland 14057,
+Max delay time: 123.0 
+Hayden 12094, Atlanta 10397,
+Max delay time: 0.0 
+Washington 11278, Akron 10874,
+Max delay time: 0.0 
+Bozeman 10849, Houston 12266,
+Max delay time: 75.0 
+Los Angeles 12892, Milwaukee 13342,
+Max delay time: 0.0 
+Cleveland 11042, New York 12478,
+Max delay time: 25.0 
+Tulsa 15370, Dallas/Fort Worth 11298,
+Max delay time: 27.0 
+St. Louis 15016, Detroit 11433,
+Max delay time: 18.0 
+Newark 11618, Grand Rapids 11986,
+Max delay time: 32.0 
+Tucson 15376, Las Vegas 12889,
+Max delay time: 52.0 
+Arcata/Eureka 10157, San Francisco 14771,
+Max delay time: 167.0 
+Santa Ana 14908, Sacramento 14893,
+Max delay time: 116.0 
+Seattle 14747, Las Vegas 12889,
+Max delay time: 144.0 
+Boise 10713, Salt Lake City 14869,
+Max delay time: 53.0 
+Jacksonville 12451, Baltimore 10821,
+Max delay time: 39.0 
+Laramie 12888, Denver 11292,
+Max delay time: 200.0 
+Pittsburgh 14122, Philadelphia 14100,
+Max delay time: 47.0 
+Houston 12266, Des Moines 11423,
+Max delay time: 46.0 
+Norfolk 13931, Miami 13303,
+Max delay time: 35.0 
+Louisville 14730, Chicago 13930,
+Max delay time: 207.0 
+West Palm Beach/Palm Beach 14027, Baltimore 10821,
+Max delay time: 123.0 
+Chicago 13232, Albuquerque 10140,
+Max delay time: 0.0 
+San Francisco 14771, Anchorage 10299,
+Max delay time: 0.0 
+Tucson 15376, San Francisco 14771,
+Max delay time: 85.0 
+Phoenix 14107, San Diego 14679,
+Max delay time: 49.0 
+Los Angeles 12892, Sacramento 14893,
+Max delay time: 74.0 
+Palm Springs 14262, Salt Lake City 14869,
+Max delay time: 6.0 
+Washington 12264, New York 12953,
+Max delay time: 31.0 
+Los Angeles 12892, Anchorage 10299,
+Max delay time: 0.0 
+Las Vegas 12889, Nashville 10693,
+Max delay time: 15.0 
+Boise 10713, Spokane 11884,
+Max delay time: 37.0 
+Austin 10423, Las Vegas 12889,
+Max delay time: 11.0 
+Kansas City 13198, Minneapolis 13487,
+Max delay time: 6.0 
+Minneapolis 13487, Kalamazoo 10469,
+Max delay time: 1.0 
+Oakland 13796, Spokane 11884,
+Max delay time: 0.0 
+New York 12478, Portland 14057,
+Max delay time: 21.0 
+Mobile 13422, Chicago 13930,
+Max delay time: 61.0 
+San Francisco 14771, Bend/Redmond 14489,
+Max delay time: 98.0 
+Denver 11292, Dayton 11267,
+Max delay time: 10.0 
+Washington 12264, Oklahoma City 13851,
+Max delay time: 35.0 
+Atlanta 10397, Salt Lake City 14869,
+Max delay time: 26.0 
+Kalamazoo 10469, Chicago 13930,
+Max delay time: 156.0 
+Washington 11278, Kansas City 13198,
+Max delay time: 3.0 
+Los Angeles 12892, Houston 12266,
+Max delay time: 111.0 
+Miami 13303, New Orleans 13495,
+Max delay time: 4.0 
+Denver 11292, Rock Springs 14543,
+Max delay time: 138.0 
+Detroit 11433, White Plains 12197,
+Max delay time: 0.0 
+Fort Myers 14635, Atlantic City 10158,
+Max delay time: 51.0 
+New York 12953, Dallas/Fort Worth 11298,
+Max delay time: 98.0 
+New York 12953, Knoxville 15412,
+Max delay time: 24.0 
+Fort Myers 14635, Houston 12266,
+Max delay time: 24.0 
+Norfolk 13931, Newark 11618,
+Max delay time: 220.0 
+Houston 12191, Midland/Odessa 13158,
+Max delay time: 12.0 
+Hayden 12094, Newark 11618,
+Max delay time: 87.0 
+Sacramento 14893, Ontario 13891,
+Max delay time: 30.0 
+Monterey 13476, Phoenix 14107,
+Max delay time: 1.0 
+Chicago 13930, Sioux City 15048,
+Max delay time: 18.0 
+Denver 11292, Lincoln 13029,
+Max delay time: 123.0 
+Cleveland 11042, Minneapolis 13487,
+Max delay time: 20.0 
+Honolulu 12173, Guam 12016,
+Max delay time: 22.0 
+Austin 10423, Orlando 13204,
+Max delay time: 36.0 
+Green Bay 11977, Atlanta 10397,
+Max delay time: 0.0 
+St. Louis 15016, Tulsa 15370,
+Max delay time: 29.0 
+San Antonio 14683, Nashville 10693,
+Max delay time: 212.0 
+Detroit 11433, Los Angeles 12892,
+Max delay time: 320.0 
+Cleveland 11042, Hartford 10529,
+Max delay time: 0.0 
+Newark 11618, Milwaukee 13342,
+Max delay time: 50.0 
+Kahului 13830, Seattle 14747,
+Max delay time: 42.0 
+New York 12953, Kansas City 13198,
+Max delay time: 44.0 
+Portland 14057, Long Beach 12954,
+Max delay time: 8.0 
+Las Vegas 12889, Cincinnati 11193,
+Max delay time: 17.0 
+Aspen 10372, Denver 11292,
+Max delay time: 88.0 
+Tucson 15376, Los Angeles 12892,
+Max delay time: 78.0 
+Minneapolis 13487, Salt Lake City 14869,
+Max delay time: 14.0 
+Tallahassee 15249, Miami 13303,
+Max delay time: 5.0 
+Detroit 11433, Alpena 10333,
+Max delay time: 0.0 
+Akron 10874, Detroit 11433,
+Max delay time: 74.0 
+San Antonio 14683, Philadelphia 14100,
+Max delay time: 2.0 
+Atlanta 10397, Tampa 15304,
+Max delay time: 48.0 
+Baltimore 10821, Fort Lauderdale 11697,
+Max delay time: 140.0 
+New Orleans 13495, San Diego 14679,
+Max delay time: 55.0 
+Fresno 11638, Denver 11292,
+Max delay time: 132.0 
+Detroit 11433, Austin 10423,
+Max delay time: 0.0 
+St. Cloud 15008, Chicago 13930,
+Max delay time: 140.0 
+Portland 14057, Boston 10721,
+Max delay time: 20.0 
+Las Vegas 12889, Chicago 13232,
+Max delay time: 76.0 
+Tampa 15304, Los Angeles 12892,
+Max delay time: 36.0 
+Nashville 10693, Panama City 11481,
+Max delay time: 0.0 
+Atlanta 10397, Green Bay 11977,
+Max delay time: 73.0 
+Houston 12191, Chicago 13232,
+Max delay time: 33.0 
+Chicago 13930, Milwaukee 13342,
+Max delay time: 215.0 
+Little Rock 12992, Chicago 13232,
+Max delay time: 8.0 
+Orlando 13204, Pittsburgh 14122,
+Max delay time: 24.0 
+Sacramento 14893, Honolulu 12173,
+Max delay time: 17.0 
+Trenton 15356, Orlando 13204,
+Max delay time: 306.0 
+Des Moines 11423, Chicago 13232,
+Max delay time: 40.0 
+Islip 12391, Baltimore 10821,
+Max delay time: 45.0 
+Los Angeles 12892, Phoenix 14107,
+Max delay time: 150.0 
+Dallas/Fort Worth 11298, Memphis 13244,
+Max delay time: 171.0 
+Long Beach 12954, Salt Lake City 14869,
+Max delay time: 67.0 
+Houston 12266, West Palm Beach/Palm Beach 14027,
+Max delay time: 28.0 
+Portland 14057, Chicago 13232,
+Max delay time: 0.0 
+Lawton/Fort Sill 12891, Dallas/Fort Worth 11298,
+Max delay time: 67.0 
+Hartford 10529, Denver 11292,
+Max delay time: 0.0 
+Evansville 11612, Chicago 13930,
+Max delay time: 149.0 
+Orlando 13204, Latrobe 12898,
+Max delay time: 27.0 
+Atlanta 10397, Kalamazoo 10469,
+Max delay time: 0.0 
+Oakland 13796, Kahului 13830,
+Max delay time: 73.0 
+Newark 11618, Jackson 12441,
+Max delay time: 56.0 
+New York 12478, Oakland 13796,
+Max delay time: 0.0 
+Dickinson 11315, Denver 11292,
+Max delay time: 22.0 
+Minneapolis 13487, Williston 12389,
+Max delay time: 51.0 
+Sacramento 14893, Houston 12266,
+Max delay time: 30.0 
+Detroit 11433, Buffalo 10792,
+Max delay time: 96.0 
+Nashville 10693, Denver 11292,
+Max delay time: 42.0 
+Pellston 14150, Detroit 11433,
+Max delay time: 221.0 
+Boston 10721, Dallas/Fort Worth 11298,
+Max delay time: 1201.0 
+San Francisco 14771, Monterey 13476,
+Max delay time: 186.0 
+Atlanta 10397, Rochester 14633,
+Max delay time: 8.0 
+New York 12953, Nashville 10693,
+Max delay time: 70.0 
+Denver 11292, Pueblo 14288,
+Max delay time: 59.0 
+San Diego 14679, New Orleans 13495,
+Max delay time: 59.0 
+State College 14711, Chicago 13930,
+Max delay time: 125.0 
+Houston 12191, Oakland 13796,
+Max delay time: 128.0 
+Cincinnati 11193, Denver 11292,
+Max delay time: 121.0 
+Charlotte 11057, San Juan 14843,
+Max delay time: 28.0 
+Minneapolis 13487, Hartford 10529,
+Max delay time: 25.0 
+Dallas/Fort Worth 11298, Grand Junction 11921,
+Max delay time: 14.0 
+Seattle 14747, Jackson 12441,
+Max delay time: 320.0 
+Reno 14570, Las Vegas 12889,
+Max delay time: 46.0 
+Baltimore 10821, Rochester 14576,
+Max delay time: 64.0 
+Houston 12266, Brownsville 10747,
+Max delay time: 51.0 
+Denver 11292, Fayetteville 15919,
+Max delay time: 0.0 
+Santa Ana 14908, Dallas 11259,
+Max delay time: 63.0 
+Los Angeles 12892, San Luis Obispo 14698,
+Max delay time: 123.0 
+Philadelphia 14100, West Palm Beach/Palm Beach 14027,
+Max delay time: 121.0 
+Spokane 11884, Minneapolis 13487,
+Max delay time: 23.0 
+Salt Lake City 14869, Casper 11122,
+Max delay time: 0.0 
+Cedar Rapids/Iowa City 11003, Minneapolis 13487,
+Max delay time: 1.0 
+Charlotte 11057, San Francisco 14771,
+Max delay time: 97.0 
+Los Angeles 12892, Santa Maria 14905,
+Max delay time: 22.0 
+Rock Springs 14543, Salt Lake City 14869,
+Max delay time: 6.0 
+Denver 11292, Phoenix 14107,
+Max delay time: 210.0 
+Boston 10721, Denver 11292,
+Max delay time: 107.0 
+Omaha 13871, Las Vegas 12889,
+Max delay time: 251.0 
+Pittsburgh 14122, San Francisco 14771,
+Max delay time: 0.0 
+Washington 11278, Nashville 10693,
+Max delay time: 0.0 
+Atlantic City 10158, Orlando 13204,
+Max delay time: 173.0 
+Phoenix 14107, Burbank 10800,
+Max delay time: 158.0 
+Myrtle Beach 13577, New York 12953,
+Max delay time: 93.0 
+San Francisco 14771, Fort Lauderdale 11697,
+Max delay time: 29.0 
+Baltimore 10821, New Orleans 13495,
+Max delay time: 39.0 
+Wichita 12278, Atlanta 10397,
+Max delay time: 16.0 
+Birmingham 10599, Las Vegas 12889,
+Max delay time: 0.0 
+Chicago 13232, Orlando 13204,
+Max delay time: 48.0 
+Miami 13303, St. Louis 15016,
+Max delay time: 34.0 
+Cincinnati 11193, New York 12953,
+Max delay time: 223.0 
+Salt Lake City 14869, Boise 10713,
+Max delay time: 74.0 
+Houston 12266, Palm Springs 14262,
+Max delay time: 12.0 
+Manchester 13296, Newark 11618,
+Max delay time: 19.0 
+Chicago 13232, St. Louis 15016,
+Max delay time: 46.0 
+Ontario 13891, Dallas/Fort Worth 11298,
+Max delay time: 48.0 
+Baltimore 10821, Nashville 10693,
+Max delay time: 44.0 
+San Antonio 14683, San Francisco 14771,
+Max delay time: 34.0 
+Fort Lauderdale 11697, Indianapolis 12339,
+Max delay time: 0.0 
+Cincinnati 11193, Orlando 13204,
+Max delay time: 196.0 
+Dallas/Fort Worth 11298, Waco 10155,
+Max delay time: 74.0 
+Austin 10423, Newark 11618,
+Max delay time: 7.0 
+Albuquerque 10140, Dallas 11259,
+Max delay time: 69.0 
+Atlanta 10397, Buffalo 10792,
+Max delay time: 17.0 
+Las Vegas 12889, Denver 11292,
+Max delay time: 106.0 
+Cincinnati 11193, Fort Myers 14635,
+Max delay time: 0.0 
+Denver 11292, Reno 14570,
+Max delay time: 86.0 
+Newark 11618, Cleveland 11042,
+Max delay time: 120.0 
+Salt Lake City 14869, Portland 14057,
+Max delay time: 19.0 
+Salt Lake City 14869, Atlanta 10397,
+Max delay time: 229.0 
+Chicago 13232, Omaha 13871,
+Max delay time: 56.0 
+Salt Lake City 14869, Rapid City 14457,
+Max delay time: 0.0 
+Atlanta 10397, Denver 11292,
+Max delay time: 49.0 
+Seattle 14747, Spokane 11884,
+Max delay time: 60.0 
+Chicago 13232, Memphis 13244,
+Max delay time: 101.0 
+Austin 10423, Phoenix 14107,
+Max delay time: 122.0 
+Madison 13485, Salt Lake City 14869,
+Max delay time: 0.0 
+Savannah 14685, Houston 12266,
+Max delay time: 106.0 
+Houston 12191, Oklahoma City 13851,
+Max delay time: 37.0 
+Jackson 12441, Chicago 13930,
+Max delay time: 37.0 
+Evansville 11612, Atlanta 10397,
+Max delay time: 54.0 
+Portland 14057, Palm Springs 14262,
+Max delay time: 4.0 
+Seattle 14747, Honolulu 12173,
+Max delay time: 190.0 
+New Orleans 13495, Charlotte 11057,
+Max delay time: 21.0 
+Philadelphia 14100, San Francisco 14771,
+Max delay time: 69.0 
+Pittsburgh 14122, Houston 12191,
+Max delay time: 0.0 
+Phoenix 14107, Yuma 16218,
+Max delay time: 24.0 
+Newark 11618, Washington 11278,
+Max delay time: 41.0 
+Washington 12264, Nashville 10693,
+Max delay time: 17.0 
+Nashville 10693, Cincinnati 11193,
+Max delay time: 44.0 
+Denver 11292, Madison 13485,
+Max delay time: 92.0 
+Seattle 14747, Albuquerque 10140,
+Max delay time: 32.0 
+Columbus 11066, New York 12478,
+Max delay time: 126.0 
+Charleston 10994, Houston 12266,
+Max delay time: 4.0 
+Bethel 10551, Anchorage 10299,
+Max delay time: 24.0 
+Dallas/Fort Worth 11298, Indianapolis 12339,
+Max delay time: 144.0 
+Salt Lake City 14869, Washington 11278,
+Max delay time: 28.0 
+Kona 12758, Oakland 13796,
+Max delay time: 120.0 
+Adak Island 10165, Anchorage 10299,
+Max delay time: 0.0 
+Dallas 11259, Tampa 15304,
+Max delay time: 14.0 
+Saginaw/Bay City/Midland 13184, Detroit 11433,
+Max delay time: 4.0 
+Buffalo 10792, Boston 10721,
+Max delay time: 0.0 
+Philadelphia 14100, Pittsburgh 14122,
+Max delay time: 10.0 
+Austin 10423, Denver 11292,
+Max delay time: 160.0 
+Springfield 14783, Dallas/Fort Worth 11298,
+Max delay time: 207.0 
+Nashville 10693, Baltimore 10821,
+Max delay time: 76.0 
+Minneapolis 13487, Cleveland 11042,
+Max delay time: 151.0 
+Kansas City 13198, Houston 12191,
+Max delay time: 171.0 
+Denver 11292, Bozeman 10849,
+Max delay time: 182.0 
+Houston 12191, New York 12953,
+Max delay time: 138.0 
+San Antonio 14683, Chicago 13232,
+Max delay time: 55.0 
+Santa Maria 14905, Los Angeles 12892,
+Max delay time: 0.0 
+New York 12478, Syracuse 15096,
+Max delay time: 92.0 
+Houston 12266, San Jose 14831,
+Max delay time: 0.0 
+Houston 12266, Grand Rapids 11986,
+Max delay time: 53.0 
+Minneapolis 13487, Fort Lauderdale 11697,
+Max delay time: 54.0 
+Little Rock 12992, Phoenix 14107,
+Max delay time: 9.0 
+New Orleans 13495, Kansas City 13198,
+Max delay time: 0.0 
+Seattle 14747, San Diego 14679,
+Max delay time: 46.0 
+Charleston 10994, Baltimore 10821,
+Max delay time: 80.0 
+Jackson/Vicksburg 12448, Houston 12266,
+Max delay time: 464.0 
+Evansville 11612, Detroit 11433,
+Max delay time: 10.0 
+Orlando 13204, Washington 12264,
+Max delay time: 23.0 
+Chicago 13930, Memphis 13244,
+Max delay time: 56.0 
+Dallas 11259, Oakland 13796,
+Max delay time: 14.0 
+Denver 11292, Boston 10721,
+Max delay time: 158.0 
+Washington 12264, Minneapolis 13487,
+Max delay time: 45.0 
+San Francisco 14771, Milwaukee 13342,
+Max delay time: 12.0 
+Denver 11292, Cody 11097,
+Max delay time: 25.0 
+Indianapolis 12339, Orlando 13204,
+Max delay time: 84.0 
+Rapid City 14457, Denver 11292,
+Max delay time: 11.0 
+Harrisburg 13230, Chicago 13930,
+Max delay time: 73.0 
+Hartford 10529, Washington 12264,
+Max delay time: 5.0 
+Syracuse 15096, Chicago 13930,
+Max delay time: 109.0 
+Baton Rouge 10781, Dallas/Fort Worth 11298,
+Max delay time: 174.0 
+New Orleans 13495, Fort Lauderdale 11697,
+Max delay time: 33.0 
+Fort Myers 14635, Washington 12264,
+Max delay time: 11.0 
+Tulsa 15370, Newark 11618,
+Max delay time: 0.0 
+Atlanta 10397, Myrtle Beach 13577,
+Max delay time: 8.0 
+Manchester 13296, Chicago 13232,
+Max delay time: 8.0 
+San Diego 14679, New York 12478,
+Max delay time: 72.0 
+Fargo 11637, Denver 11292,
+Max delay time: 301.0 
+Cleveland 11042, Denver 11292,
+Max delay time: 13.0 
+Phoenix 14107, Chicago 13232,
+Max delay time: 88.0 
+Washington 12264, Phoenix 14107,
+Max delay time: 0.0 
+Los Angeles 12892, Salt Lake City 14869,
+Max delay time: 165.0 
+Detroit 11433, Hartford 10529,
+Max delay time: 96.0 
+San Francisco 14771, San Diego 14679,
+Max delay time: 145.0 
+Madison 13485, Minneapolis 13487,
+Max delay time: 81.0 
+Seattle 14747, St. Louis 15016,
+Max delay time: 0.0 
+Salt Lake City 14869, St. George 14794,
+Max delay time: 9.0 
+Baltimore 10821, Salt Lake City 14869,
+Max delay time: 29.0 
+Long Beach 12954, New York 12478,
+Max delay time: 31.0 
+Washington 12264, Houston 12266,
+Max delay time: 220.0 
+Houston 12191, San Diego 14679,
+Max delay time: 10.0 
+Chicago 13930, Albuquerque 10140,
+Max delay time: 50.0 
+Bakersfield 10561, Houston 12266,
+Max delay time: 7.0 
+Asheville 10431, Chicago 13930,
+Max delay time: 17.0 
+Panama City 11481, Atlanta 10397,
+Max delay time: 387.0 
+Detroit 11433, Newark 11618,
+Max delay time: 185.0 
+Savannah 14685, Atlanta 10397,
+Max delay time: 132.0 
+Christiansted 15027, Charlotte 11057,
+Max delay time: 22.0 
+Aguadilla 10732, Newark 11618,
+Max delay time: 105.0 
+Seattle 14747, Minneapolis 13487,
+Max delay time: 33.0 
+Atlanta 10397, San Antonio 14683,
+Max delay time: 23.0 
+Dallas/Fort Worth 11298, Champaign/Urbana 11067,
+Max delay time: 27.0 
+Portland 14057, Los Angeles 12892,
+Max delay time: 2.0 
+Washington 12264, Raleigh/Durham 14492,
+Max delay time: 24.0 
+Chicago 13232, Washington 11278,
+Max delay time: 74.0 
+Atlanta 10397, Jackson/Vicksburg 12448,
+Max delay time: 97.0 
+Honolulu 12173, Pago Pago 14222,
+Max delay time: 0.0 
+Fargo 11637, Minneapolis 13487,
+Max delay time: 35.0 
+Denver 11292, Fresno 11638,
+Max delay time: 57.0 
+Houston 12266, Austin 10423,
+Max delay time: 138.0 
+New Orleans 13495, Detroit 11433,
+Max delay time: 155.0 
+Newport News/Williamsburg 14098, Atlanta 10397,
+Max delay time: 27.0 
+Eagle 11503, Dallas/Fort Worth 11298,
+Max delay time: 25.0 
+Minneapolis 13487, Raleigh/Durham 14492,
+Max delay time: 41.0 
+Daytona Beach 11252, Atlanta 10397,
+Max delay time: 0.0 
+Atlanta 10397, Kansas City 13198,
+Max delay time: 95.0 
+Raleigh/Durham 14492, Boston 10721,
+Max delay time: 59.0 
+Dallas/Fort Worth 11298, Knoxville 15412,
+Max delay time: 239.0 
+Honolulu 12173, Seattle 14747,
+Max delay time: 80.0 
+Orlando 13204, Norfolk 13931,
+Max delay time: 2.0 
+Las Vegas 12889, Dallas 11259,
+Max delay time: 86.0 
+Indianapolis 12339, Washington 12264,
+Max delay time: 12.0 
+Las Vegas 12889, Houston 12266,
+Max delay time: 73.0 
+Boston 10721, Washington 12264,
+Max delay time: 21.0 
+New Orleans 13495, Nashville 10693,
+Max delay time: 9.0 
+New York 12953, Richmond 14524,
+Max delay time: 16.0 
+Detroit 11433, Tulsa 15370,
+Max delay time: 0.0 
+San Francisco 14771, Miami 13303,
+Max delay time: 170.0 
+Bloomington/Normal 10685, Dallas/Fort Worth 11298,
+Max delay time: 23.0 
+Orlando 13204, Minneapolis 13487,
+Max delay time: 20.0 
+Atlanta 10397, Rochester 14576,
+Max delay time: 60.0 
+Akron 10874, Denver 11292,
+Max delay time: 4.0 
+Palm Springs 14262, Houston 12266,
+Max delay time: 28.0 
+Boston 10721, Chicago 13232,
+Max delay time: 21.0 
+Houston 12191, Corpus Christi 11140,
+Max delay time: 41.0 
+Phoenix 14107, Houston 12266,
+Max delay time: 147.0 
+Fort Lauderdale 11697, Chicago 13930,
+Max delay time: 146.0 
+Sacramento 14893, Atlanta 10397,
+Max delay time: 66.0 
+Chicago 13930, Lincoln 13029,
+Max delay time: 1.0 
+Atlanta 10397, Cedar Rapids/Iowa City 11003,
+Max delay time: 72.0 
+Omaha 13871, Denver 11292,
+Max delay time: 93.0 
+Dallas 11259, Phoenix 14107,
+Max delay time: 19.0 
+San Juan 14843, Miami 13303,
+Max delay time: 89.0 
+Salt Lake City 14869, Santa Ana 14908,
+Max delay time: 36.0 
+Chicago 13232, Denver 11292,
+Max delay time: 94.0 
+Orlando 13204, Columbus 11066,
+Max delay time: 25.0 
+Knoxville 15412, Newark 11618,
+Max delay time: 0.0 
+Colorado Springs 11109, Salt Lake City 14869,
+Max delay time: 11.0 
+Salt Lake City 14869, Colorado Springs 11109,
+Max delay time: 12.0 
+Tulsa 15370, Houston 12191,
+Max delay time: 114.0 
+Chicago 13930, Green Bay 11977,
+Max delay time: 113.0 
+Cincinnati 11193, New York 12478,
+Max delay time: 63.0 
+Dallas/Fort Worth 11298, Durango 11413,
+Max delay time: 40.0 
+Wrangell 15841, Ketchikan 12819,
+Max delay time: 15.0 
+Salt Lake City 14869, Ontario 13891,
+Max delay time: 21.0 
+Columbia 10868, Washington 12264,
+Max delay time: 153.0 
+Amarillo 10279, Houston 12266,
+Max delay time: 74.0 
+Norfolk 13931, New York 12953,
+Max delay time: 59.0 
+Birmingham 10599, Orlando 13204,
+Max delay time: 1.0 
+Seattle 14747, Colorado Springs 11109,
+Max delay time: 73.0 
+Houston 12266, Cleveland 11042,
+Max delay time: 66.0 
+Grand Rapids 11986, Detroit 11433,
+Max delay time: 28.0 
+Houston 12266, Miami 13303,
+Max delay time: 52.0 
+Orlando 13204, Dayton 11267,
+Max delay time: 0.0 
+Charlotte Amalie 15024, Newark 11618,
+Max delay time: 65.0 
+Washington 12264, Providence 14307,
+Max delay time: 95.0 
+Mosinee 11203, Chicago 13930,
+Max delay time: 88.0 
+Fort Lauderdale 11697, Orlando 13204,
+Max delay time: 4.0 
+Detroit 11433, Greer 11996,
+Max delay time: 0.0 
+Peoria 14108, Atlanta 10397,
+Max delay time: 11.0 
+Chicago 13930, Mobile 13422,
+Max delay time: 0.0 
+Atlanta 10397, Orlando 13204,
+Max delay time: 77.0 
+Houston 12266, Kansas City 13198,
+Max delay time: 86.0 
+Atlanta 10397, Pittsburgh 14122,
+Max delay time: 368.0 
+Lafayette 12951, Atlanta 10397,
+Max delay time: 19.0 
+Washington 11278, Orlando 13204,
+Max delay time: 129.0 
+Charleston 10994, New York 12478,
+Max delay time: 168.0 
+Albany 10257, Baltimore 10821,
+Max delay time: 12.0 
+Dallas 11259, Wichita 12278,
+Max delay time: 69.0 
+Reno 14570, Houston 12266,
+Max delay time: 0.0 
+Newark 11618, Eagle 11503,
+Max delay time: 0.0 
+Shreveport 14814, Denver 11292,
+Max delay time: 14.0 
+Chicago 13930, Las Vegas 12889,
+Max delay time: 98.0 
+Hancock/Houghton 11076, Chicago 13930,
+Max delay time: 128.0 
+Birmingham 10599, Baltimore 10821,
+Max delay time: 23.0 
+Bakersfield 10561, San Francisco 14771,
+Max delay time: 10.0 
+Los Angeles 12892, Jackson 12441,
+Max delay time: 24.0 
+Houston 12266, Seattle 14747,
+Max delay time: 123.0 
+Little Rock 12992, Dallas/Fort Worth 11298,
+Max delay time: 38.0 
+Fort Myers 14635, Cincinnati 11193,
+Max delay time: 0.0 
+Savannah 14685, Dallas/Fort Worth 11298,
+Max delay time: 24.0 
+Albany 10257, Chicago 13232,
+Max delay time: 6.0 
+Islip 12391, West Palm Beach/Palm Beach 14027,
+Max delay time: 19.0 
+Aguadilla 10732, Fort Lauderdale 11697,
+Max delay time: 0.0 
+El Paso 11540, Houston 12266,
+Max delay time: 169.0 
+Bellingham 10666, Honolulu 12173,
+Max delay time: 0.0 
+Houston 12266, Los Angeles 12892,
+Max delay time: 116.0 
+Baltimore 10821, Albany 10257,
+Max delay time: 103.0 
+Louisville 14730, Las Vegas 12889,
+Max delay time: 0.0 
+Detroit 11433, Fort Myers 14635,
+Max delay time: 100.0 
+Chicago 13232, Providence 14307,
+Max delay time: 77.0 
+Chicago 13930, Kalamazoo 10469,
+Max delay time: 100.0 
+Shreveport 14814, Atlanta 10397,
+Max delay time: 81.0 
+Akron 10874, Orlando 13204,
+Max delay time: 4.0 
+Minneapolis 13487, Orlando 13204,
+Max delay time: 91.0 
+Albany 10146, Atlanta 10397,
+Max delay time: 38.0 
+Burbank 10800, Denver 11292,
+Max delay time: 373.0 
+Raleigh/Durham 14492, Minneapolis 13487,
+Max delay time: 2.0 
+Oklahoma City 13851, Houston 12191,
+Max delay time: 40.0 
+Norfolk 13931, Baltimore 10821,
+Max delay time: 23.0 
+Springfield 14952, Dallas/Fort Worth 11298,
+Max delay time: 53.0 
+Sacramento 14893, Salt Lake City 14869,
+Max delay time: 165.0 
+Atlanta 10397, Lincoln 13029,
+Max delay time: 5.0 
+Eagle 11503, Miami 13303,
+Max delay time: 13.0 
+Monroe 13377, Dallas/Fort Worth 11298,
+Max delay time: 26.0 
+Portland 14057, Kona 12758,
+Max delay time: 0.0 
+Los Angeles 12892, Memphis 13244,
+Max delay time: 8.0 
+Portland 14057, Houston 12266,
+Max delay time: 18.0 
+Charlotte 11057, Trenton 15356,
+Max delay time: 18.0 
+Chicago 13930, Lansing 12884,
+Max delay time: 47.0 
+Billings 10620, Denver 11292,
+Max delay time: 60.0 
+San Jose 14831, Phoenix 14107,
+Max delay time: 107.0 
+Atlanta 10397, Houston 12266,
+Max delay time: 118.0 
+Washington 11278, Minneapolis 13487,
+Max delay time: 23.0 
+Redding 14487, San Francisco 14771,
+Max delay time: 130.0 
+Atlantic City 10158, Myrtle Beach 13577,
+Max delay time: 0.0 
+Atlanta 10397, Boston 10721,
+Max delay time: 164.0 
+Dallas/Fort Worth 11298, Tulsa 15370,
+Max delay time: 140.0 
+Missoula 13486, Minneapolis 13487,
+Max delay time: 0.0 
+Charlotte 11057, San Antonio 14683,
+Max delay time: 23.0 
+Cleveland 11042, San Francisco 14771,
+Max delay time: 0.0 
+Fresno 11638, Dallas/Fort Worth 11298,
+Max delay time: 958.0 
+Atlanta 10397, Indianapolis 12339,
+Max delay time: 132.0 
+Chicago 13930, Manhattan/Ft. Riley 13290,
+Max delay time: 45.0 
+Burlington 10785, New York 12478,
+Max delay time: 34.0 
+Houston 12266, Cincinnati 11193,
+Max delay time: 59.0 
+Orlando 13204, Chicago 13232,
+Max delay time: 47.0 
+Denver 11292, Omaha 13871,
+Max delay time: 115.0 
+Chicago 13930, Indianapolis 12339,
+Max delay time: 262.0 
+Los Angeles 12892, Charlotte 11057,
+Max delay time: 29.0 
+Reno 14570, Minneapolis 13487,
+Max delay time: 0.0 
+New York 12953, Charleston 10994,
+Max delay time: 198.0 
+Burlington 10785, Detroit 11433,
+Max delay time: 117.0 
+Newark 11618, Norfolk 13931,
+Max delay time: 14.0 
+Denver 11292, San Antonio 14683,
+Max delay time: 167.0 
+Salt Lake City 14869, Idaho Falls 12280,
+Max delay time: 103.0 
+Houston 12266, Baltimore 10821,
+Max delay time: 60.0 
+Raleigh/Durham 14492, St. Louis 15016,
+Max delay time: 11.0 
+Pittsburgh 14122, Phoenix 14107,
+Max delay time: 16.0 
+Rochester 14633, Minneapolis 13487,
+Max delay time: 0.0 
+Minneapolis 13487, Houston 12266,
+Max delay time: 140.0 
+Dallas 11259, Lubbock 12896,
+Max delay time: 17.0 
+Indianapolis 12339, Chicago 13930,
+Max delay time: 292.0 
+Barrow 10754, Anchorage 10299,
+Max delay time: 3.0 
+Denver 11292, Las Vegas 12889,
+Max delay time: 126.0 
+Tampa 15304, Atlantic City 10158,
+Max delay time: 0.0 
+Dallas/Fort Worth 11298, Cleveland 11042,
+Max delay time: 118.0 
+Houston 12266, Little Rock 12992,
+Max delay time: 91.0 
+Lansing 12884, Minneapolis 13487,
+Max delay time: 143.0 
+Honolulu 12173, Newark 11618,
+Max delay time: 0.0 
+Cincinnati 11193, Tampa 15304,
+Max delay time: 0.0 
+Minneapolis 13487, Richmond 14524,
+Max delay time: 28.0 
+Harlingen/San Benito 12206, Austin 10423,
+Max delay time: 0.0 
+Austin 10423, San Jose 14831,
+Max delay time: 3.0 
+San Francisco 14771, Dallas 11259,
+Max delay time: 90.0 
+Detroit 11433, Tampa 15304,
+Max delay time: 76.0 
+Chicago 13930, Manchester 13296,
+Max delay time: 0.0 
+Fort Lauderdale 11697, Raleigh/Durham 14492,
+Max delay time: 6.0 
+Philadelphia 14100, Jacksonville 12451,
+Max delay time: 35.0 
+Dallas/Fort Worth 11298, San Francisco 14771,
+Max delay time: 139.0 
+Anchorage 10299, Adak Island 10165,
+Max delay time: 0.0 
+Newark 11618, Seattle 14747,
+Max delay time: 20.0 
+Scranton/Wilkes-Barre 10434, Chicago 13930,
+Max delay time: 18.0 
+Charlotte 11057, Miami 13303,
+Max delay time: 98.0 
+Atlanta 10397, Phoenix 14107,
+Max delay time: 38.0 
+Cincinnati 11193, Houston 12266,
+Max delay time: 14.0 
+Chicago 13930, Bloomington/Normal 10685,
+Max delay time: 55.0 
+Phoenix 14107, Cincinnati 11193,
+Max delay time: 31.0 
+Indianapolis 12339, San Francisco 14771,
+Max delay time: 0.0 
+San Francisco 14771, Oklahoma City 13851,
+Max delay time: 147.0 
+Los Angeles 12892, Houston 12191,
+Max delay time: 39.0 
+Seattle 14747, Juneau 12523,
+Max delay time: 51.0 
+Sacramento 14893, Minneapolis 13487,
+Max delay time: 15.0 
+Albuquerque 10140, Chicago 13930,
+Max delay time: 105.0 
+Chicago 13930, Seattle 14747,
+Max delay time: 81.0 
+Denver 11292, Fort Lauderdale 11697,
+Max delay time: 39.0 
+Miami 13303, Charlotte Amalie 15024,
+Max delay time: 119.0 
+Dallas 11259, Los Angeles 12892,
+Max delay time: 77.0 
+Bakersfield 10561, Denver 11292,
+Max delay time: 64.0 
+Chicago 13232, Minneapolis 13487,
+Max delay time: 153.0 
+Chicago 13930, Fayetteville 15919,
+Max delay time: 119.0 
+Buffalo 10792, Washington 12264,
+Max delay time: 20.0 
+Providence 14307, Fort Lauderdale 11697,
+Max delay time: 23.0 
+Kansas City 13198, Orlando 13204,
+Max delay time: 21.0 
+Chicago 13930, Jackson/Vicksburg 12448,
+Max delay time: 0.0 
+New Orleans 13495, Austin 10423,
+Max delay time: 34.0 
+Columbus 11066, Fort Lauderdale 11697,
+Max delay time: 0.0 
+Las Vegas 12889, Fort Lauderdale 11697,
+Max delay time: 29.0 
+Detroit 11433, Richmond 14524,
+Max delay time: 2.0 
+Dallas/Fort Worth 11298, Boston 10721,
+Max delay time: 53.0 
+Fort Myers 14635, Atlanta 10397,
+Max delay time: 73.0 
+Detroit 11433, Escanaba 11587,
+Max delay time: 245.0 
+Las Vegas 12889, Houston 12191,
+Max delay time: 110.0 
+Houston 12266, Killeen 11982,
+Max delay time: 20.0 
+Miami 13303, Raleigh/Durham 14492,
+Max delay time: 66.0 
+Cleveland 11042, Fort Myers 14635,
+Max delay time: 0.0 
+Chicago 13930, Phoenix 14107,
+Max delay time: 240.0 
+Medford 13264, Denver 11292,
+Max delay time: 13.0 
+Baltimore 10821, Islip 12391,
+Max delay time: 72.0 
+Houston 12191, Albuquerque 10140,
+Max delay time: 26.0 
+Albuquerque 10140, Los Angeles 12892,
+Max delay time: 15.0 
+Montrose/Delta 13502, Los Angeles 12892,
+Max delay time: 0.0 
+Champaign/Urbana 11067, Dallas/Fort Worth 11298,
+Max delay time: 17.0 
+Detroit 11433, Raleigh/Durham 14492,
+Max delay time: 0.0 
+Fort Lauderdale 11697, Aguadilla 10732,
+Max delay time: 0.0 
+St. Louis 15016, Newark 11618,
+Max delay time: 191.0 
+New Orleans 13495, St. Louis 15016,
+Max delay time: 4.0 
+Orlando 13204, Raleigh/Durham 14492,
+Max delay time: 81.0 
+Eugene 11603, San Francisco 14771,
+Max delay time: 88.0 
+Las Vegas 12889, Detroit 11433,
+Max delay time: 12.0 
+Atlanta 10397, Springfield 14783,
+Max delay time: 49.0 
+Roanoke 14574, Washington 12264,
+Max delay time: 0.0 
+New York 12953, Birmingham 10599,
+Max delay time: 57.0 
+Orlando 13204, Wilmington 12320,
+Max delay time: 5.0 
+Denver 11292, Kalispell 11648,
+Max delay time: 77.0 
+Dallas 11259, Houston 12266,
+Max delay time: 197.0 
+Montrose/Delta 13502, Chicago 13930,
+Max delay time: 10.0 
+New York 12478, Salt Lake City 14869,
+Max delay time: 120.0 
+Oakland 13796, Baltimore 10821,
+Max delay time: 3.0 
+Knoxville 15412, Denver 11292,
+Max delay time: 99.0 
+Las Vegas 12889, Reno 14570,
+Max delay time: 51.0 
+San Diego 14679, Dallas/Fort Worth 11298,
+Max delay time: 213.0 
+Fort Lauderdale 11697, San Juan 14843,
+Max delay time: 86.0 
+Montrose/Delta 13502, Denver 11292,
+Max delay time: 10.0 
+Seattle 14747, Austin 10423,
+Max delay time: 8.0 
+Syracuse 15096, New York 12953,
+Max delay time: 14.0 
+Tampa 15304, White Plains 12197,
+Max delay time: 78.0 
+Las Vegas 12889, Oklahoma City 13851,
+Max delay time: 73.0 
+West Palm Beach/Palm Beach 14027, Houston 12266,
+Max delay time: 16.0 
+Minneapolis 13487, Billings 10620,
+Max delay time: 38.0 
+El Paso 11540, San Antonio 14683,
+Max delay time: 47.0 
+Newark 11618, Austin 10423,
+Max delay time: 23.0 
+San Diego 14679, San Francisco 14771,
+Max delay time: 283.0 
+Houston 12191, Los Angeles 12892,
+Max delay time: 30.0 
+Phoenix 14107, Durango 11413,
+Max delay time: 16.0 
+Rhinelander 14520, Iron Mountain/Kingsfd 12335,
+Max delay time: 69.0 
+Salt Lake City 14869, Gillette 11865,
+Max delay time: 17.0 
+Charleston 10994, Dallas/Fort Worth 11298,
+Max delay time: 64.0 
+New York 12478, Norfolk 13931,
+Max delay time: 16.0 
+Escanaba 11587, Detroit 11433,
+Max delay time: 514.0 
+Houston 12266, Tulsa 15370,
+Max delay time: 19.0 
+San Diego 14679, San Jose 14831,
+Max delay time: 116.0 
+Mobile 13422, Dallas/Fort Worth 11298,
+Max delay time: 81.0 
+Dallas/Fort Worth 11298, Colorado Springs 11109,
+Max delay time: 38.0 
+Charlotte 11057, Richmond 14524,
+Max delay time: 41.0 
+Chicago 13930, Huntsville 12217,
+Max delay time: 154.0 
+Denver 11292, Palm Springs 14262,
+Max delay time: 74.0 
+Denver 11292, St. Louis 15016,
+Max delay time: 146.0 
+San Francisco 14771, Pasco/Kennewick/Richland 14252,
+Max delay time: 115.0 
+Newark 11618, Louisville 14730,
+Max delay time: 113.0 
+El Paso 11540, Dallas/Fort Worth 11298,
+Max delay time: 26.0 
+Orlando 13204, Dallas 11259,
+Max delay time: 19.0 
+Atlantic City 10158, Fort Lauderdale 11697,
+Max delay time: 16.0 
+Knoxville 15412, Dallas/Fort Worth 11298,
+Max delay time: 167.0 
+Buffalo 10792, Fort Lauderdale 11697,
+Max delay time: 38.0 
+Detroit 11433, Las Vegas 12889,
+Max delay time: 105.0 
+Detroit 11433, Peoria 14108,
+Max delay time: 217.0 
+Salt Lake City 14869, Seattle 14747,
+Max delay time: 65.0 
+Denver 11292, Grand Junction 11921,
+Max delay time: 39.0 
+Atlanta 10397, Charlotte Amalie 15024,
+Max delay time: 0.0 
+New Orleans 13495, Phoenix 14107,
+Max delay time: 0.0 
+Baltimore 10821, Miami 13303,
+Max delay time: 31.0 
+Atlanta 10397, Gulfport/Biloxi 11973,
+Max delay time: 19.0 
+Orlando 13204, Indianapolis 12339,
+Max delay time: 137.0 
+Detroit 11433, Huntsville 12217,
+Max delay time: 51.0 
+Sacramento 14893, San Francisco 14771,
+Max delay time: 132.0 
+Atlanta 10397, Chicago 13930,
+Max delay time: 98.0 
+Denver 11292, Jackson 12441,
+Max delay time: 107.0 
+Hayden 12094, Washington 12264,
+Max delay time: 0.0 
+San Diego 14679, Los Angeles 12892,
+Max delay time: 462.0 
+Denver 11292, Fort Myers 14635,
+Max delay time: 36.0 
+Houston 12266, Washington 12264,
+Max delay time: 45.0 
+Greer 11996, Atlanta 10397,
+Max delay time: 115.0 
+Oklahoma City 13851, Las Vegas 12889,
+Max delay time: 0.0 
+Minneapolis 13487, Reno 14570,
+Max delay time: 0.0 
+Denver 11292, Kansas City 13198,
+Max delay time: 236.0 
+Albuquerque 10140, New York 12478,
+Max delay time: 24.0 
+Indianapolis 12339, Charlotte 11057,
+Max delay time: 60.0 
+Charlotte 11057, Memphis 13244,
+Max delay time: 14.0 
+St. Louis 15016, Houston 12191,
+Max delay time: 115.0 
+Houston 12266, Albuquerque 10140,
+Max delay time: 67.0 
+Tampa 15304, Raleigh/Durham 14492,
+Max delay time: 54.0 
+Cedar Rapids/Iowa City 11003, Chicago 13930,
+Max delay time: 157.0 
+Allentown/Bethlehem/Easton 10135, Chicago 13930,
+Max delay time: 30.0 
+New York 12478, Boston 10721,
+Max delay time: 150.0 
+Cleveland 11042, Washington 12264,
+Max delay time: 89.0 
+Chicago 13232, Houston 12191,
+Max delay time: 63.0 
+Colorado Springs 11109, Los Angeles 12892,
+Max delay time: 144.0 
+Indianapolis 12339, New York 12478,
+Max delay time: 203.0 
+Kahului 13830, Anchorage 10299,
+Max delay time: 23.0 
+Nashville 10693, Newark 11618,
+Max delay time: 69.0 
+Detroit 11433, Cleveland 11042,
+Max delay time: 0.0 
+Boston 10721, Phoenix 14107,
+Max delay time: 196.0 
+St. Louis 15016, Charlotte 11057,
+Max delay time: 69.0 
+Montrose/Delta 13502, Houston 12266,
+Max delay time: 27.0 
+Tulsa 15370, Detroit 11433,
+Max delay time: 7.0 
+Pittsburgh 14122, Baltimore 10821,
+Max delay time: 25.0 
+San Jose 14831, Salt Lake City 14869,
+Max delay time: 84.0 
+Las Vegas 12889, Spokane 11884,
+Max delay time: 17.0 
+Erie 11577, Chicago 13930,
+Max delay time: 135.0 
+Houston 12266, Boston 10721,
+Max delay time: 67.0 
+San Diego 14679, Oakland 13796,
+Max delay time: 47.0 
+Greer 11996, Baltimore 10821,
+Max delay time: 3.0 
+Lubbock 12896, Dallas/Fort Worth 11298,
+Max delay time: 156.0 
+Las Vegas 12889, Washington 11278,
+Max delay time: 10.0 
+St. Augustine 15497, Washington 12264,
+Max delay time: 0.0 
+Valdosta 15607, Atlanta 10397,
+Max delay time: 90.0 
+Dallas/Fort Worth 11298, Santa Fe 14674,
+Max delay time: 36.0 
+Pago Pago 14222, Honolulu 12173,
+Max delay time: 0.0 
+Des Moines 11423, Minneapolis 13487,
+Max delay time: 98.0 
+San Francisco 14771, San Antonio 14683,
+Max delay time: 129.0 
+Philadelphia 14100, Los Angeles 12892,
+Max delay time: 88.0 
+Palm Springs 14262, Chicago 13930,
+Max delay time: 58.0 
+Salt Lake City 14869, Helena 12156,
+Max delay time: 0.0 
+Dallas/Fort Worth 11298, Baltimore 10821,
+Max delay time: 86.0 
+Chicago 13930, Eagle 11503,
+Max delay time: 64.0 
+Chicago 13930, Little Rock 12992,
+Max delay time: 205.0 
+Lihue 12982, San Diego 14679,
+Max delay time: 0.0 
+Tucson 15376, Atlanta 10397,
+Max delay time: 5.0 
+Grand Junction 11921, Denver 11292,
+Max delay time: 58.0 
+Colorado Springs 11109, Dallas/Fort Worth 11298,
+Max delay time: 375.0 
+Boston 10721, Long Beach 12954,
+Max delay time: 1.0 
+Columbus 12007, Atlanta 10397,
+Max delay time: 80.0 
+Milwaukee 13342, Fort Myers 14635,
+Max delay time: 60.0 
+New York 12953, Manchester 13296,
+Max delay time: 94.0 
+Pensacola 14193, Dallas/Fort Worth 11298,
+Max delay time: 41.0 
+Kansas City 13198, Phoenix 14107,
+Max delay time: 17.0 
+Charlotte 11057, Los Angeles 12892,
+Max delay time: 17.0 
+Chicago 13930, Minneapolis 13487,
+Max delay time: 140.0 
+Charlotte 11057, St. Louis 15016,
+Max delay time: 7.0 
+Oklahoma City 13851, Detroit 11433,
+Max delay time: 187.0 
+Mission/McAllen/Edinburg 13256, Houston 12266,
+Max delay time: 46.0 
+Houston 12266, New York 12953,
+Max delay time: 331.0 
+St. Louis 15016, San Antonio 14683,
+Max delay time: 0.0 
+Amarillo 10279, Dallas 11259,
+Max delay time: 32.0 
+Atlanta 10397, Portland 14057,
+Max delay time: 5.0 
+New York 12478, Tampa 15304,
+Max delay time: 179.0 
+Newark 11618, Jacksonville 12451,
+Max delay time: 32.0 
+Chicago 13232, Birmingham 10599,
+Max delay time: 26.0 
+Cincinnati 11193, Phoenix 14107,
+Max delay time: 7.0 
+Washington 11278, New York 12953,
+Max delay time: 64.0 
+Reno 14570, Salt Lake City 14869,
+Max delay time: 12.0 
+Charlotte 11057, Philadelphia 14100,
+Max delay time: 181.0 
+Detroit 11433, Allentown/Bethlehem/Easton 10135,
+Max delay time: 17.0 
+Minneapolis 13487, Appleton 10408,
+Max delay time: 7.0 
+Dallas 11259, Santa Ana 14908,
+Max delay time: 0.0 
+San Juan 14843, New York 12478,
+Max delay time: 156.0 
+Detroit 11433, Jacksonville 12451,
+Max delay time: 64.0 
+Dallas/Fort Worth 11298, El Paso 11540,
+Max delay time: 140.0 
+Atlanta 10397, Louisville 14730,
+Max delay time: 46.0 
+Columbus 11066, Atlanta 10397,
+Max delay time: 85.0 
+Honolulu 12173, Kona 12758,
+Max delay time: 59.0 
+Dallas/Fort Worth 11298, Pensacola 14193,
+Max delay time: 176.0 
+Indianapolis 12339, Kansas City 13198,
+Max delay time: 6.0 
+Chicago 13232, Portland 14057,
+Max delay time: 0.0 
+New York 12953, Houston 12191,
+Max delay time: 134.0 
+Charlotte 11057, Seattle 14747,
+Max delay time: 28.0 
+Tampa 15304, Indianapolis 12339,
+Max delay time: 8.0 
+Orlando 13204, Ponce 14254,
+Max delay time: 0.0 
+Burbank 10800, San Francisco 14771,
+Max delay time: 93.0 
+Rochester 14576, Orlando 13204,
+Max delay time: 0.0 
+West Palm Beach/Palm Beach 14027, Islip 12391,
+Max delay time: 59.0 
+Columbus 11066, Los Angeles 12892,
+Max delay time: 0.0 
+Huntsville 12217, Chicago 13930,
+Max delay time: 60.0 
+San Francisco 14771, Palm Springs 14262,
+Max delay time: 76.0 
+Orlando 13204, Louisville 14730,
+Max delay time: 22.0 
+Los Angeles 12892, Monterey 13476,
+Max delay time: 32.0 
+Los Angeles 12892, Baltimore 10821,
+Max delay time: 21.0 
+Washington 12264, Chicago 13232,
+Max delay time: 22.0 
+Seattle 14747, Milwaukee 13342,
+Max delay time: 0.0 
+Charleston 10994, Chicago 13930,
+Max delay time: 36.0 
+Charlotte 11057, Newark 11618,
+Max delay time: 82.0 
+Oakland 13796, Ontario 13891,
+Max delay time: 72.0 
+Manchester 13296, Baltimore 10821,
+Max delay time: 84.0 
+Baltimore 10821, Charleston 10994,
+Max delay time: 30.0 
+Atlanta 10397, State College 14711,
+Max delay time: 3.0 
+West Palm Beach/Palm Beach 14027, Detroit 11433,
+Max delay time: 0.0 
+St. Louis 15016, Fort Myers 14635,
+Max delay time: 17.0 
+Salt Lake City 14869, Vernal 15582,
+Max delay time: 19.0 
+Rochester 14576, New York 12478,
+Max delay time: 24.0 
+Las Vegas 12889, Boston 10721,
+Max delay time: 38.0 
+Seattle 14747, Orlando 13204,
+Max delay time: 5.0 
+Hartford 10529, Chicago 13930,
+Max delay time: 152.0 
+Chicago 13232, Oklahoma City 13851,
+Max delay time: 31.0 
+Cleveland 11042, Washington 11278,
+Max delay time: 24.0 
+Chicago 13232, Wichita 12278,
+Max delay time: 186.0 
+Rochester 14576, Newark 11618,
+Max delay time: 3.0 
+Las Vegas 12889, Omaha 13871,
+Max delay time: 41.0 
+San Diego 14679, Atlanta 10397,
+Max delay time: 40.0 
+Washington 12264, Dallas/Fort Worth 11298,
+Max delay time: 22.0 
+San Francisco 14771, Sun Valley/Hailey/Ketchum 15041,
+Max delay time: 27.0 
+Chicago 13232, Tulsa 15370,
+Max delay time: 0.0 
+Chicago 13930, Baltimore 10821,
+Max delay time: 475.0 
+Memphis 13244, Detroit 11433,
+Max delay time: 8.0 
+Los Angeles 12892, Colorado Springs 11109,
+Max delay time: 36.0 
+Fargo 11637, Chicago 13930,
+Max delay time: 191.0 
+Lihue 12982, San Jose 14831,
+Max delay time: 142.0 
+Kansas City 13198, Albuquerque 10140,
+Max delay time: 0.0 
+Dallas/Fort Worth 11298, San Antonio 14683,
+Max delay time: 150.0 
+Newark 11618, Minneapolis 13487,
+Max delay time: 62.0 
+Manchester 13296, Detroit 11433,
+Max delay time: 17.0 
+Mobile 13422, Atlanta 10397,
+Max delay time: 213.0 
+Spokane 11884, Denver 11292,
+Max delay time: 58.0 
+Los Angeles 12892, Montrose/Delta 13502,
+Max delay time: 137.0 
+Phoenix 14107, Omaha 13871,
+Max delay time: 42.0 
+Detroit 11433, Kansas City 13198,
+Max delay time: 165.0 
+Los Angeles 12892, Austin 10423,
+Max delay time: 28.0 
+San Francisco 14771, Bakersfield 10561,
+Max delay time: 89.0 
+Milwaukee 13342, Orlando 13204,
+Max delay time: 43.0 
+Portland 14057, Las Vegas 12889,
+Max delay time: 74.0 
+Pittsburgh 14122, Nashville 10693,
+Max delay time: 0.0 
+Buffalo 10792, Phoenix 14107,
+Max delay time: 0.0 
+Chicago 13930, Cleveland 11042,
+Max delay time: 326.0 
+Santa Ana 14908, Denver 11292,
+Max delay time: 136.0 
+Baltimore 10821, Dallas/Fort Worth 11298,
+Max delay time: 73.0 
+Green Bay 11977, Minneapolis 13487,
+Max delay time: 253.0 
+Rochester 14633, Atlanta 10397,
+Max delay time: 78.0 
+Austin 10423, Washington 11278,
+Max delay time: 0.0 
+Dallas/Fort Worth 11298, Tallahassee 15249,
+Max delay time: 55.0 
+Louisville 14730, Atlanta 10397,
+Max delay time: 98.0 
+Newark 11618, Chicago 13930,
+Max delay time: 213.0 
+Charlotte 11057, Kansas City 13198,
+Max delay time: 107.0 
+San Francisco 14771, Dallas/Fort Worth 11298,
+Max delay time: 118.0 
+Santa Barbara 14689, San Francisco 14771,
+Max delay time: 155.0 
+Salt Lake City 14869, Reno 14570,
+Max delay time: 6.0 
+Fort Lauderdale 11697, Charlotte Amalie 15024,
+Max delay time: 18.0 
+Las Vegas 12889, San Antonio 14683,
+Max delay time: 24.0 
+Louisville 14730, Tampa 15304,
+Max delay time: 0.0 
+Minneapolis 13487, Milwaukee 13342,
+Max delay time: 14.0 
+Minneapolis 13487, Detroit 11433,
+Max delay time: 7.0 
+Sacramento 14893, Denver 11292,
+Max delay time: 96.0 
+San Diego 14679, Portland 14057,
+Max delay time: 114.0 
+Miami 13303, Dallas/Fort Worth 11298,
+Max delay time: 66.0 
+San Francisco 14771, Lihue 12982,
+Max delay time: 0.0 
+Los Angeles 12892, Oakland 13796,
+Max delay time: 91.0 
+Casper 11122, Denver 11292,
+Max delay time: 412.0 
+Raleigh/Durham 14492, Hartford 10529,
+Max delay time: 53.0 
+Atlanta 10397, Valdosta 15607,
+Max delay time: 50.0 
+Minneapolis 13487, Memphis 13244,
+Max delay time: 0.0 
+Portland 14057, Tucson 15376,
+Max delay time: 29.0 
+Washington 12264, Buffalo 10792,
+Max delay time: 0.0 
+Newark 11618, Raleigh/Durham 14492,
+Max delay time: 10.0 
+Las Vegas 12889, Charlotte 11057,
+Max delay time: 13.0 
+Denver 11292, San Diego 14679,
+Max delay time: 106.0 
+Albuquerque 10140, Atlanta 10397,
+Max delay time: 41.0 
+New York 12478, Cincinnati 11193,
+Max delay time: 92.0 
+Columbus 11066, Chicago 13232,
+Max delay time: 107.0 
+Orlando 13204, Houston 12266,
+Max delay time: 149.0 
+Boston 10721, Houston 12191,
+Max delay time: 43.0 
+Montgomery 13277, Dallas/Fort Worth 11298,
+Max delay time: 122.0 
+Meridian 13241, Dallas/Fort Worth 11298,
+Max delay time: 1.0 
+Albany 10257, Charlotte 11057,
+Max delay time: 0.0 
+Pocatello 14113, Salt Lake City 14869,
+Max delay time: 5.0 
+Los Angeles 12892, St. Louis 15016,
+Max delay time: 21.0 
+Atlanta 10397, Richmond 14524,
+Max delay time: 32.0 
+Las Vegas 12889, Dallas/Fort Worth 11298,
+Max delay time: 715.0 
+Newark 11618, Buffalo 10792,
+Max delay time: 83.0 
+Tampa 15304, New Orleans 13495,
+Max delay time: 16.0 
+New York 12478, Raleigh/Durham 14492,
+Max delay time: 56.0 
+Richmond 14524, Dallas/Fort Worth 11298,
+Max delay time: 10.0 
+Louisville 14730, Chicago 13232,
+Max delay time: 48.0 
+Burlington 10785, Atlanta 10397,
+Max delay time: 4.0 
+Honolulu 12173, Denver 11292,
+Max delay time: 0.0 
+Boston 10721, New Orleans 13495,
+Max delay time: 28.0 
+Fargo 11637, Salt Lake City 14869,
+Max delay time: 5.0 
+Chicago 13232, Tampa 15304,
+Max delay time: 26.0 
+Charlotte 11057, Fort Lauderdale 11697,
+Max delay time: 15.0 
+Chicago 13232, Albany 10257,
+Max delay time: 31.0 
+San Francisco 14771, Sacramento 14893,
+Max delay time: 135.0 
+Minneapolis 13487, Dickinson 11315,
+Max delay time: 12.0 
+Atlanta 10397, Montgomery 13277,
+Max delay time: 60.0 
+Rapid City 14457, Chicago 13930,
+Max delay time: 0.0 
+Chicago 13930, Allentown/Bethlehem/Easton 10135,
+Max delay time: 13.0 
+Indianapolis 12339, Detroit 11433,
+Max delay time: 32.0 
+Kahului 13830, Dallas/Fort Worth 11298,
+Max delay time: 14.0 
+Kansas City 13198, Detroit 11433,
+Max delay time: 15.0 
+Salt Lake City 14869, Pocatello 14113,
+Max delay time: 5.0 
+Tulsa 15370, Houston 12266,
+Max delay time: 68.0 
+Little Rock 12992, Denver 11292,
+Max delay time: 10.0 
+Oakland 13796, Houston 12191,
+Max delay time: 18.0 
+Anchorage 10299, Minneapolis 13487,
+Max delay time: 0.0 
+St. Louis 15016, Seattle 14747,
+Max delay time: 48.0 
+Chicago 13930, Fort Wayne 11823,
+Max delay time: 129.0 
+Islip 12391, Tampa 15304,
+Max delay time: 85.0 
+Boston 10721, Houston 12266,
+Max delay time: 96.0 
+Dallas 11259, Fort Lauderdale 11697,
+Max delay time: 35.0 
+Kalispell 11648, Salt Lake City 14869,
+Max delay time: 165.0 
+Atlanta 10397, Los Angeles 12892,
+Max delay time: 64.0 
+Houston 12266, Charleston 10994,
+Max delay time: 16.0 
+San Francisco 14771, Ontario 13891,
+Max delay time: 57.0 
+Seattle 14747, Ontario 13891,
+Max delay time: 15.0 
+Denver 11292, Knoxville 15412,
+Max delay time: 0.0 
+Milwaukee 13342, Washington 11278,
+Max delay time: 75.0 
+Scranton/Wilkes-Barre 10434, Detroit 11433,
+Max delay time: 122.0 
+Dallas/Fort Worth 11298, Wichita Falls 14960,
+Max delay time: 200.0 
+Denver 11292, St. George 14794,
+Max delay time: 27.0 
+St. Louis 15016, Denver 11292,
+Max delay time: 58.0 
+Deadhorse 14709, Anchorage 10299,
+Max delay time: 0.0 
+Baltimore 10821, Chicago 13930,
+Max delay time: 123.0 
+Gulfport/Biloxi 11973, Atlanta 10397,
+Max delay time: 22.0 
+New Orleans 13495, Orlando 13204,
+Max delay time: 48.0 
+Denver 11292, Lihue 12982,
+Max delay time: 18.0 
+Chicago 13930, Peoria 14108,
+Max delay time: 137.0 
+Atlanta 10397, Aspen 10372,
+Max delay time: 46.0 
+Burbank 10800, Salt Lake City 14869,
+Max delay time: 0.0 
+Oakland 13796, Kona 12758,
+Max delay time: 0.0 
+Dallas/Fort Worth 11298, Chicago 13930,
+Max delay time: 144.0 
+Kansas City 13198, Seattle 14747,
+Max delay time: 0.0 
+Detroit 11433, Oklahoma City 13851,
+Max delay time: 41.0 
+Boston 10721, Nashville 10693,
+Max delay time: 0.0 
+Las Vegas 12889, Boise 10713,
+Max delay time: 20.0 
+Miami 13303, Chicago 13930,
+Max delay time: 240.0 
+Miami 13303, Greensboro/High Point 11995,
+Max delay time: 21.0 
+Bismarck/Mandan 10627, Dallas/Fort Worth 11298,
+Max delay time: 14.0 
+Houston 12266, Columbia 10868,
+Max delay time: 11.0 
+San Francisco 14771, Chicago 13930,
+Max delay time: 186.0 
+Los Angeles 12892, Dallas/Fort Worth 11298,
+Max delay time: 190.0 
+Philadelphia 14100, Chicago 13232,
+Max delay time: 53.0 
+Philadelphia 14100, Minneapolis 13487,
+Max delay time: 80.0 
+Sacramento 14893, Seattle 14747,
+Max delay time: 79.0 
+Dallas/Fort Worth 11298, Springfield 14783,
+Max delay time: 99.0 
+Kona 12758, San Francisco 14771,
+Max delay time: 0.0 
+Oklahoma City 13851, Dallas 11259,
+Max delay time: 33.0 
+Fort Lauderdale 11697, Buffalo 10792,
+Max delay time: 36.0 
+Las Vegas 12889, Louisville 14730,
+Max delay time: 17.0 
+Fresno 11638, Los Angeles 12892,
+Max delay time: 46.0 
+Portland 14057, San Jose 14831,
+Max delay time: 187.0 
+Hartford 10529, Baltimore 10821,
+Max delay time: 119.0 
+Atlanta 10397, Bozeman 10849,
+Max delay time: 12.0 
+Denver 11292, Tulsa 15370,
+Max delay time: 89.0 
+Atlanta 10397, Montrose/Delta 13502,
+Max delay time: 0.0 
+Dayton 11267, Detroit 11433,
+Max delay time: 18.0 
+Dallas 11259, Midland/Odessa 13158,
+Max delay time: 43.0 
+Newark 11618, Dallas/Fort Worth 11298,
+Max delay time: 1125.0 
+Fort Myers 14635, Dallas/Fort Worth 11298,
+Max delay time: 120.0 
+Fort Lauderdale 11697, Hartford 10529,
+Max delay time: 41.0 
+Houston 12266, Ontario 13891,
+Max delay time: 27.0 
+Fort Lauderdale 11697, Providence 14307,
+Max delay time: 22.0 
+Providence 14307, Orlando 13204,
+Max delay time: 42.0 
+Rock Springs 14543, Denver 11292,
+Max delay time: 420.0 
+Casper 11122, Salt Lake City 14869,
+Max delay time: 0.0 
+Fresno 11638, Seattle 14747,
+Max delay time: 45.0 
+Houston 12266, Washington 11278,
+Max delay time: 30.0 
+Grand Junction 11921, Dallas/Fort Worth 11298,
+Max delay time: 26.0 
+Boston 10721, Detroit 11433,
+Max delay time: 161.0 
+San Francisco 14771, Washington 11278,
+Max delay time: 138.0 
+Santa Ana 14908, Houston 12191,
+Max delay time: 58.0 
+Cleveland 11042, Chicago 13232,
+Max delay time: 79.0 
+Houston 12191, Kansas City 13198,
+Max delay time: 11.0 
+Albuquerque 10140, Denver 11292,
+Max delay time: 15.0 
+Atlanta 10397, Washington 12264,
+Max delay time: 71.0 
+Ontario 13891, Oakland 13796,
+Max delay time: 36.0 
+Twin Falls 15389, Salt Lake City 14869,
+Max delay time: 10.0 
+Boise 10713, Houston 12266,
+Max delay time: 0.0 
+St. Louis 15016, Orlando 13204,
+Max delay time: 12.0 
+Orlando 13204, San Juan 14843,
+Max delay time: 198.0 
+Moline 13367, Denver 11292,
+Max delay time: 4.0 
+Grand Rapids 11986, Dallas/Fort Worth 11298,
+Max delay time: 52.0 
+Denver 11292, Washington 11278,
+Max delay time: 170.0 
+Philadelphia 14100, Seattle 14747,
+Max delay time: 15.0 
+Minneapolis 13487, Rochester 14633,
+Max delay time: 179.0 
+Austin 10423, Seattle 14747,
+Max delay time: 0.0 
+Atlanta 10397, Albuquerque 10140,
+Max delay time: 126.0 
+San Jose 14831, Chicago 13930,
+Max delay time: 61.0 
+Elmira/Corning 11537, Atlanta 10397,
+Max delay time: 10.0 
+Ontario 13891, Portland 14057,
+Max delay time: 0.0 
+New York 12478, Aguadilla 10732,
+Max delay time: 5.0 
+Chicago 13930, Buffalo 10792,
+Max delay time: 86.0 
+Cleveland 11042, Detroit 11433,
+Max delay time: 4.0 
+Dallas/Fort Worth 11298, Sacramento 14893,
+Max delay time: 46.0 
+Seattle 14747, Tampa 15304,
+Max delay time: 0.0 
+Las Vegas 12889, Sacramento 14893,
+Max delay time: 48.0 
+Trenton 15356, Detroit 11433,
+Max delay time: 190.0 
+Minneapolis 13487, Madison 13485,
+Max delay time: 0.0 
+Atlanta 10397, Sarasota/Bradenton 14986,
+Max delay time: 33.0 
+Dallas/Fort Worth 11298, Columbia 11111,
+Max delay time: 48.0 
+Orlando 13204, Salt Lake City 14869,
+Max delay time: 10.0 
+Dallas/Fort Worth 11298, Palm Springs 14262,
+Max delay time: 60.0 
+Santa Barbara 14689, Phoenix 14107,
+Max delay time: 4.0 
+Greensboro/High Point 11995, Detroit 11433,
+Max delay time: 0.0 
+Seattle 14747, Boston 10721,
+Max delay time: 58.0 
+Los Angeles 12892, Lihue 12982,
+Max delay time: 189.0 
+Fort Lauderdale 11697, New York 12478,
+Max delay time: 191.0 
+Denver 11292, San Francisco 14771,
+Max delay time: 96.0 
+Newark 11618, Houston 12191,
+Max delay time: 35.0 
+Grand Junction 11921, Salt Lake City 14869,
+Max delay time: 0.0 
+Portland 14321, Charlotte 11057,
+Max delay time: 2.0 
+Baltimore 10821, Houston 12266,
+Max delay time: 67.0 
+Detroit 11433, Indianapolis 12339,
+Max delay time: 86.0 
+San Francisco 14771, Minneapolis 13487,
+Max delay time: 55.0 
+Greer 11996, Chicago 13930,
+Max delay time: 21.0 
+Jackson 12441, Los Angeles 12892,
+Max delay time: 154.0 
+Sacramento 14893, Long Beach 12954,
+Max delay time: 0.0 
+Cincinnati 11193, Newark 11618,
+Max delay time: 167.0 
+Denver 11292, Shreveport 14814,
+Max delay time: 58.0 
+Corpus Christi 11140, Houston 12266,
+Max delay time: 39.0 
+San Francisco 14771, Santa Barbara 14689,
+Max delay time: 152.0 
+Montrose/Delta 13502, San Francisco 14771,
+Max delay time: 0.0 
+Houston 12191, Tulsa 15370,
+Max delay time: 40.0 
+Minneapolis 13487, Phoenix 14107,
+Max delay time: 123.0 
+New Orleans 13495, Chicago 13930,
+Max delay time: 49.0 
+San Diego 14679, Detroit 11433,
+Max delay time: 10.0 
+Minneapolis 13487, Fargo 11637,
+Max delay time: 40.0 
+Latrobe 12898, Orlando 13204,
+Max delay time: 0.0 
+Springfield 14783, Denver 11292,
+Max delay time: 65.0 
+Seattle 14747, Sacramento 14893,
+Max delay time: 46.0 
+Miami 13303, Washington 11278,
+Max delay time: 44.0 
+Cedar Rapids/Iowa City 11003, Atlanta 10397,
+Max delay time: 138.0 
+San Juan 14843, Hartford 10529,
+Max delay time: 108.0 
+Denver 11292, Gillette 11865,
+Max delay time: 56.0 
+Melbourne 13360, Atlanta 10397,
+Max delay time: 319.0 
+Jamestown 12519, Devils Lake 11447,
+Max delay time: 114.0 
+Sioux Falls 11775, Denver 11292,
+Max delay time: 159.0 
+Burbank 10800, Las Vegas 12889,
+Max delay time: 147.0 
+Dallas 11259, San Francisco 14771,
+Max delay time: 48.0 
+Miami 13303, San Diego 14679,
+Max delay time: 14.0 
+Lincoln 13029, Minneapolis 13487,
+Max delay time: 0.0 
+Los Angeles 12892, Chicago 13232,
+Max delay time: 49.0 
+Houston 12191, Pensacola 14193,
+Max delay time: 17.0 
+Detroit 11433, Denver 11292,
+Max delay time: 75.0 
+Indianapolis 12339, Dallas/Fort Worth 11298,
+Max delay time: 37.0 
+Tulsa 15370, Denver 11292,
+Max delay time: 71.0 
+Indianapolis 12339, Los Angeles 12892,
+Max delay time: 0.0 
+San Luis Obispo 14698, San Francisco 14771,
+Max delay time: 96.0 
+Houston 12266, Montrose/Delta 13502,
+Max delay time: 38.0 
+International Falls 12343, Minneapolis 13487,
+Max delay time: 149.0 
+Palm Springs 14262, Denver 11292,
+Max delay time: 144.0 
+Boston 10721, New York 12953,
+Max delay time: 109.0 
+Reno 14570, San Francisco 14771,
+Max delay time: 133.0 
+Boston 10721, Newark 11618,
+Max delay time: 127.0 
+Killeen 11982, Dallas/Fort Worth 11298,
+Max delay time: 53.0 
+Charlotte 11057, Syracuse 15096,
+Max delay time: 7.0 
+Dallas/Fort Worth 11298, Monroe 13377,
+Max delay time: 115.0 
+Las Vegas 12889, Bellingham 10666,
+Max delay time: 0.0 
+Charlotte 11057, Salt Lake City 14869,
+Max delay time: 0.0 
+Memphis 13244, Newark 11618,
+Max delay time: 557.0 
+San Antonio 14683, Newark 11618,
+Max delay time: 0.0 
+Salt Lake City 14869, Spokane 11884,
+Max delay time: 9.0 
+Sacramento 14893, Kahului 13830,
+Max delay time: 0.0 
+Cody 11097, Denver 11292,
+Max delay time: 11.0 
+Jacksonville 12451, Fort Lauderdale 11697,
+Max delay time: 45.0 
+Cincinnati 11193, Salt Lake City 14869,
+Max delay time: 0.0 
+Atlanta 10397, Grand Rapids 11986,
+Max delay time: 33.0 
+Salt Lake City 14869, Oklahoma City 13851,
+Max delay time: 1.0 
+Reno 14570, Denver 11292,
+Max delay time: 73.0 
+Portland 14057, Atlanta 10397,
+Max delay time: 0.0 
+Jacksonville 12451, Washington 11278,
+Max delay time: 68.0 
+Detroit 11433, Erie 11577,
+Max delay time: 5.0 
+Louisville 14730, Denver 11292,
+Max delay time: 35.0 
+Fort Lauderdale 11697, Baltimore 10821,
+Max delay time: 161.0 
+Salt Lake City 14869, Nashville 10693,
+Max delay time: 45.0 
+Dallas/Fort Worth 11298, Jackson 12441,
+Max delay time: 28.0 
+Orlando 13204, Detroit 11433,
+Max delay time: 96.0 
+Cleveland 11042, St. Louis 15016,
+Max delay time: 25.0 
+Columbus 11066, Dallas/Fort Worth 11298,
+Max delay time: 92.0 
+Houston 12266, Tucson 15376,
+Max delay time: 76.0 
+Dallas/Fort Worth 11298, Rapid City 14457,
+Max delay time: 108.0 
+Fort Myers 14635, Chicago 13930,
+Max delay time: 362.0 
+Fort Lauderdale 11697, Phoenix 14107,
+Max delay time: 21.0 
+Palm Springs 14262, Dallas/Fort Worth 11298,
+Max delay time: 51.0 
+Birmingham 10599, Tampa 15304,
+Max delay time: 5.0 
+Chicago 13930, Atlanta 10397,
+Max delay time: 277.0 
+New York 12953, Tampa 15304,
+Max delay time: 113.0 
+Chicago 13930, Harrisburg 13230,
+Max delay time: 124.0 
+Toledo 15295, Chicago 13930,
+Max delay time: 138.0 
+San Francisco 14771, New York 12478,
+Max delay time: 157.0 
+Cedar Rapids/Iowa City 11003, Dallas/Fort Worth 11298,
+Max delay time: 374.0 
+Cincinnati 11193, San Francisco 14771,
+Max delay time: 0.0 
+Washington 11278, Hartford 10529,
+Max delay time: 34.0 
+Boston 10721, St. Louis 15016,
+Max delay time: 33.0 
+Honolulu 12173, Salt Lake City 14869,
+Max delay time: 0.0 
+Atlanta 10397, Hartford 10529,
+Max delay time: 61.0 
+Orlando 13204, Cleveland 11042,
+Max delay time: 141.0 
+Oakland 13796, Denver 11292,
+Max delay time: 84.0 
+Salt Lake City 14869, Great Falls 12003,
+Max delay time: 12.0 
+Grand Rapids 11986, Minneapolis 13487,
+Max delay time: 21.0 
+Des Moines 11423, Houston 12266,
+Max delay time: 23.0 
+Richmond 14524, Newark 11618,
+Max delay time: 16.0 
+Akron 10874, New York 12953,
+Max delay time: 9.0 
+Washington 11278, New Orleans 13495,
+Max delay time: 7.0 
+Chicago 13930, San Antonio 14683,
+Max delay time: 88.0 
+Washington 11278, Charleston 10994,
+Max delay time: 18.0 
+Houston 12191, Pittsburgh 14122,
+Max delay time: 12.0 
+Columbus 11066, Tampa 15304,
+Max delay time: 4.0 
+Fort Myers 14635, St. Louis 15016,
+Max delay time: 54.0 
+Chicago 13930, Salt Lake City 14869,
+Max delay time: 167.0 
+Charleston 10994, Chicago 13232,
+Max delay time: 1.0 
+Los Angeles 12892, Hilo 12402,
+Max delay time: 0.0 
+Washington 12264, Los Angeles 12892,
+Max delay time: 217.0 
+Allentown/Bethlehem/Easton 10135, Detroit 11433,
+Max delay time: 17.0 
+Chicago 13930, Austin 10423,
+Max delay time: 198.0 
+Denver 11292, Cedar Rapids/Iowa City 11003,
+Max delay time: 109.0 
+Boston 10721, Portland 14057,
+Max delay time: 25.0 
+Dallas/Fort Worth 11298, Lubbock 12896,
+Max delay time: 81.0 
+Fort Myers 14635, Milwaukee 13342,
+Max delay time: 21.0 
+Albuquerque 10140, Chicago 13232,
+Max delay time: 50.0 
+Cleveland 11042, Nashville 10693,
+Max delay time: 23.0 
+Los Angeles 12892, Fresno 11638,
+Max delay time: 77.0 
+Peoria 14108, Dallas/Fort Worth 11298,
+Max delay time: 54.0 
+Washington 12264, Denver 11292,
+Max delay time: 134.0 
+Fort Lauderdale 11697, Denver 11292,
+Max delay time: 14.0 
+Nashville 10693, Fort Myers 14635,
+Max delay time: 30.0 
+Fairbanks 11630, Anchorage 10299,
+Max delay time: 69.0 
+Devils Lake 11447, Denver 11292,
+Max delay time: 59.0 
+New York 12478, Indianapolis 12339,
+Max delay time: 4.0 
+New York 12953, Fayetteville 15919,
+Max delay time: 6.0 
+Juneau 12523, Ketchikan 12819,
+Max delay time: 34.0 
+Dallas/Fort Worth 11298, Des Moines 11423,
+Max delay time: 167.0 
+Milwaukee 13342, Chicago 13930,
+Max delay time: 262.0 
+Denver 11292, Dickinson 11315,
+Max delay time: 175.0 
+Dallas/Fort Worth 11298, Ontario 13891,
+Max delay time: 33.0 
+Fort Lauderdale 11697, Cincinnati 11193,
+Max delay time: 0.0 
+Cincinnati 11193, Nashville 10693,
+Max delay time: 0.0 
+Newark 11618, Pittsburgh 14122,
+Max delay time: 5.0 
+Kansas City 13198, Washington 11278,
+Max delay time: 0.0 
+Fort Lauderdale 11697, Tampa 15304,
+Max delay time: 29.0 
+Lansing 12884, Chicago 13930,
+Max delay time: 30.0 
+Orlando 13204, Dallas/Fort Worth 11298,
+Max delay time: 731.0 
+Baltimore 10821, Charlotte 11057,
+Max delay time: 66.0 
+Fort Myers 14635, Hartford 10529,
+Max delay time: 26.0 
+Atlanta 10397, Columbus 11150,
+Max delay time: 63.0 
+St. Louis 15016, Dallas/Fort Worth 11298,
+Max delay time: 39.0 
+Houston 12191, Santa Ana 14908,
+Max delay time: 0.0 
+Chicago 13930, Knoxville 15412,
+Max delay time: 117.0 
+Charleston 10994, Miami 13303,
+Max delay time: 18.0 
+Nashville 10693, Phoenix 14107,
+Max delay time: 0.0 
+Chicago 13930, Norfolk 13931,
+Max delay time: 166.0 
+Fort Myers 14635, Indianapolis 12339,
+Max delay time: 147.0 
+Lexington 12945, Dallas/Fort Worth 11298,
+Max delay time: 64.0 
+Minneapolis 13487, Sioux Falls 11775,
+Max delay time: 110.0 
+Tampa 15304, Kansas City 13198,
+Max delay time: 7.0 
+Denver 11292, Bend/Redmond 14489,
+Max delay time: 131.0 
+Atlanta 10397, Bristol/Johnson City/Kingsport 15323,
+Max delay time: 78.0 
+White Plains 12197, Atlanta 10397,
+Max delay time: 44.0 
+San Francisco 14771, Las Vegas 12889,
+Max delay time: 227.0 
+Juneau 12523, Sitka 14828,
+Max delay time: 81.0 
+Newark 11618, Rochester 14576,
+Max delay time: 5.0 
+Chicago 13930, Louisville 14730,
+Max delay time: 46.0 
+Las Vegas 12889, Des Moines 11423,
+Max delay time: 59.0 
+Fort Lauderdale 11697, Islip 12391,
+Max delay time: 38.0 
+Austin 10423, Philadelphia 14100,
+Max delay time: 8.0 
+Albuquerque 10140, Minneapolis 13487,
+Max delay time: 24.0 
+Phoenix 14107, Tulsa 15370,
+Max delay time: 88.0 
+Atlanta 10397, Honolulu 12173,
+Max delay time: 0.0 
+Orlando 13204, Boston 10721,
+Max delay time: 230.0 
+Baltimore 10821, Chicago 13232,
+Max delay time: 59.0 
+Chicago 13930, Bismarck/Mandan 10627,
+Max delay time: 2.0 
+Birmingham 10599, Atlanta 10397,
+Max delay time: 9.0 
+Kansas City 13198, Chicago 13930,
+Max delay time: 193.0 
+Tucson 15376, Phoenix 14107,
+Max delay time: 105.0 
+Boston 10721, Miami 13303,
+Max delay time: 69.0 
+Houston 12266, Salt Lake City 14869,
+Max delay time: 29.0 
+Columbus 11066, Denver 11292,
+Max delay time: 116.0 
+New Orleans 13495, Minneapolis 13487,
+Max delay time: 1.0 
+Salt Lake City 14869, Madison 13485,
+Max delay time: 13.0 
+Las Vegas 12889, Buffalo 10792,
+Max delay time: 22.0 
+Las Vegas 12889, Seattle 14747,
+Max delay time: 156.0 
+Providence 14307, Baltimore 10821,
+Max delay time: 115.0 
+Washington 12264, Rochester 14576,
+Max delay time: 72.0 
+Atlanta 10397, New Bern/Morehead/Beaufort 11617,
+Max delay time: 0.0 
+Hattiesburg/Laurel 14109, Dallas/Fort Worth 11298,
+Max delay time: 2.0 
+Fayetteville 15919, Houston 12266,
+Max delay time: 128.0 
+Fort Myers 14635, Cleveland 11042,
+Max delay time: 7.0 
+Juneau 12523, Anchorage 10299,
+Max delay time: 24.0 
+Sault Ste. Marie 11013, Detroit 11433,
+Max delay time: 60.0 
+Baltimore 10821, San Juan 14843,
+Max delay time: 5.0 
+Chicago 13232, Raleigh/Durham 14492,
+Max delay time: 95.0 
+West Palm Beach/Palm Beach 14027, Newark 11618,
+Max delay time: 153.0 
+San Diego 14679, Dallas 11259,
+Max delay time: 9.0 
+Cleveland 11042, Phoenix 14107,
+Max delay time: 32.0 
+Phoenix 14107, Philadelphia 14100,
+Max delay time: 96.0 
+Lake Charles 12915, Houston 12266,
+Max delay time: 3.0 
+Cleveland 11042, Las Vegas 12889,
+Max delay time: 29.0 
+Boise 10713, Los Angeles 12892,
+Max delay time: 79.0 
+Boston 10721, Minneapolis 13487,
+Max delay time: 67.0 
+New Orleans 13495, Baltimore 10821,
+Max delay time: 234.0 
+Dallas/Fort Worth 11298, Fresno 11638,
+Max delay time: 74.0 
+Charleston 10994, Atlanta 10397,
+Max delay time: 29.0 
+Boston 10721, Jacksonville 12451,
+Max delay time: 76.0 
+Minneapolis 13487, Grand Rapids 11986,
+Max delay time: 66.0 
+Albuquerque 10140, San Diego 14679,
+Max delay time: 0.0 
+Newburgh/Poughkeepsie 15070, Fort Lauderdale 11697,
+Max delay time: 24.0 
+Santa Ana 14908, Phoenix 14107,
+Max delay time: 146.0 
+Little Rock 12992, Baltimore 10821,
+Max delay time: 3.0 
+Seattle 14747, Detroit 11433,
+Max delay time: 15.0 
+Sacramento 14893, Santa Ana 14908,
+Max delay time: 14.0 
+Fort Myers 14635, Nashville 10693,
+Max delay time: 3.0 
+Denver 11292, Peoria 14108,
+Max delay time: 0.0 
+Los Angeles 12892, Nashville 10693,
+Max delay time: 77.0 
+Chicago 13930, Birmingham 10599,
+Max delay time: 14.0 
+Washington 12264, Savannah 14685,
+Max delay time: 201.0 
+San Diego 14679, Kansas City 13198,
+Max delay time: 16.0 
+Houston 12266, Norfolk 13931,
+Max delay time: 15.0 
+Tucson 15376, Seattle 14747,
+Max delay time: 0.0 
+Washington 12264, Norfolk 13931,
+Max delay time: 148.0 
+Aguadilla 10732, Orlando 13204,
+Max delay time: 8.0 
+Phoenix 14107, Pittsburgh 14122,
+Max delay time: 23.0 
+Austin 10423, Harlingen/San Benito 12206,
+Max delay time: 2.0 
+Providence 14307, Chicago 13232,
+Max delay time: 0.0 
+Oakland 13796, Boise 10713,
+Max delay time: 101.0 
+Houston 12266, Lafayette 12951,
+Max delay time: 92.0 
+Seattle 14747, Kansas City 13198,
+Max delay time: 1.0 
+Pensacola 14193, Nashville 10693,
+Max delay time: 12.0 
+St. Louis 15016, Nashville 10693,
+Max delay time: 37.0 
+Akron 10874, Atlanta 10397,
+Max delay time: 126.0 
+Portland 14057, Chicago 13930,
+Max delay time: 48.0 
+Denver 11292, Seattle 14747,
+Max delay time: 80.0 
+Phoenix 14107, St. Louis 15016,
+Max delay time: 174.0 
+Los Angeles 12892, Cleveland 11042,
+Max delay time: 3.0 
+Chicago 13232, Pittsburgh 14122,
+Max delay time: 38.0 
+Petersburg 14256, Juneau 12523,
+Max delay time: 0.0 
+Denver 11292, Birmingham 10599,
+Max delay time: 31.0 
+Dallas 11259, San Antonio 14683,
+Max delay time: 77.0 
+Orlando 13204, Buffalo 10792,
+Max delay time: 10.0 
+Salt Lake City 14869, Palm Springs 14262,
+Max delay time: 170.0 
+Helena 12156, Denver 11292,
+Max delay time: 4.0 
+Baltimore 10821, Dallas 11259,
+Max delay time: 65.0 
+Bellingham 10666, Las Vegas 12889,
+Max delay time: 5.0 
+Houston 12191, Orlando 13204,
+Max delay time: 62.0 
+Dallas/Fort Worth 11298, Fargo 11637,
+Max delay time: 13.0 
+Denver 11292, Houston 12191,
+Max delay time: 29.0 
+Cincinnati 11193, Fort Lauderdale 11697,
+Max delay time: 0.0 
+Juneau 12523, Seattle 14747,
+Max delay time: 6.0 
+Houston 12266, San Diego 14679,
+Max delay time: 25.0 
+Atlanta 10397, Trenton 15356,
+Max delay time: 24.0 
+Atlanta 10397, Minneapolis 13487,
+Max delay time: 119.0 
+Los Angeles 12892, San Francisco 14771,
+Max delay time: 189.0 
+Miami 13303, Phoenix 14107,
+Max delay time: 24.0 
+Jackson 12441, San Francisco 14771,
+Max delay time: 0.0 
+Fort Lauderdale 11697, Detroit 11433,
+Max delay time: 58.0 
+Phoenix 14107, San Luis Obispo 14698,
+Max delay time: 5.0 
+Tampa 15304, Rochester 14576,
+Max delay time: 0.0 
+San Jose 14831, New York 12478,
+Max delay time: 3.0 
+Atlanta 10397, Oklahoma City 13851,
+Max delay time: 17.0 
+Chicago 13930, Honolulu 12173,
+Max delay time: 5.0 
+Midland/Odessa 13158, Houston 12191,
+Max delay time: 119.0 
+Louisville 14730, Phoenix 14107,
+Max delay time: 0.0 
+Milwaukee 13342, Seattle 14747,
+Max delay time: 0.0 
+Oklahoma City 13851, Chicago 13232,
+Max delay time: 30.0 
+Detroit 11433, Pellston 14150,
+Max delay time: 5.0 
+New York 12478, San Jose 14831,
+Max delay time: 0.0 
+Abilene 10136, Dallas/Fort Worth 11298,
+Max delay time: 106.0 
+West Palm Beach/Palm Beach 14027, White Plains 12197,
+Max delay time: 45.0 
+South Bend 14696, Newark 11618,
+Max delay time: 5.0 
+Los Angeles 12892, Pittsburgh 14122,
+Max delay time: 12.0 
+Chicago 13232, Norfolk 13931,
+Max delay time: 136.0 
+Memphis 13244, Minneapolis 13487,
+Max delay time: 0.0 
+Denver 11292, Oklahoma City 13851,
+Max delay time: 126.0 
+Houston 12266, Gulfport/Biloxi 11973,
+Max delay time: 113.0 
+Baton Rouge 10781, Atlanta 10397,
+Max delay time: 178.0 
+Los Angeles 12892, Indianapolis 12339,
+Max delay time: 0.0 
+Chicago 13232, Salt Lake City 14869,
+Max delay time: 46.0 
+Ontario 13891, Chicago 13232,
+Max delay time: 107.0 
+Seattle 14747, Denver 11292,
+Max delay time: 72.0 
+Phoenix 14107, Tampa 15304,
+Max delay time: 20.0 
+Indianapolis 12339, Tampa 15304,
+Max delay time: 21.0 
+Detroit 11433, Columbus 11066,
+Max delay time: 0.0 
+Dallas/Fort Worth 11298, Hartford 10529,
+Max delay time: 28.0 
+Aberdeen 10141, Minneapolis 13487,
+Max delay time: 9.0 
+Miami 13303, Detroit 11433,
+Max delay time: 49.0 
+Austin 10423, Long Beach 12954,
+Max delay time: 102.0 
+St. Louis 15016, Oklahoma City 13851,
+Max delay time: 0.0 
+Nashville 10693, Charlotte 11057,
+Max delay time: 35.0 
+Barrow 10754, Deadhorse 14709,
+Max delay time: 12.0 
+Great Falls 12003, Salt Lake City 14869,
+Max delay time: 50.0 
+Chicago 13930, Charlotte 11057,
+Max delay time: 160.0 
+San Francisco 14771, Portland 14057,
+Max delay time: 56.0 
+Washington 12264, Cleveland 11042,
+Max delay time: 132.0 
+Dallas/Fort Worth 11298, Honolulu 12173,
+Max delay time: 99.0 
+Charlotte 11057, Baltimore 10821,
+Max delay time: 70.0 
+New Orleans 13495, Chicago 13232,
+Max delay time: 41.0 
+Boston 10721, San Jose 14831,
+Max delay time: 14.0 
+Raleigh/Durham 14492, Fort Lauderdale 11697,
+Max delay time: 0.0 
+South Bend 14696, Detroit 11433,
+Max delay time: 138.0 
+New York 12953, Greensboro/High Point 11995,
+Max delay time: 307.0 
+Yakutat 15991, Cordova 10926,
+Max delay time: 0.0 
+Kansas City 13198, Oakland 13796,
+Max delay time: 1.0 
+Boston 10721, Seattle 14747,
+Max delay time: 67.0 
+Huntsville 12217, Dallas/Fort Worth 11298,
+Max delay time: 38.0 
+Boston 10721, Salt Lake City 14869,
+Max delay time: 12.0 
+Chicago 13232, Los Angeles 12892,
+Max delay time: 93.0 
+San Juan 14843, Detroit 11433,
+Max delay time: 0.0 
+Denver 11292, Tampa 15304,
+Max delay time: 50.0 
+St. Louis 15016, Grand Rapids 11986,
+Max delay time: 113.0 
+Madison 13485, Denver 11292,
+Max delay time: 90.0 
+San Francisco 14771, San Luis Obispo 14698,
+Max delay time: 74.0 
+Cleveland 11042, Fort Lauderdale 11697,
+Max delay time: 15.0 
+Hartford 10529, Detroit 11433,
+Max delay time: 15.0 
+Palm Springs 14262, Minneapolis 13487,
+Max delay time: 11.0 
+Appleton 10408, Chicago 13930,
+Max delay time: 116.0 
+Tampa 15304, Dallas 11259,
+Max delay time: 28.0 
+Marquette 13459, Chicago 13930,
+Max delay time: 44.0 
+Lubbock 12896, Houston 12266,
+Max delay time: 169.0 
+Beaumont/Port Arthur 10728, Dallas/Fort Worth 11298,
+Max delay time: 53.0 
+Crescent City 10930, San Francisco 14771,
+Max delay time: 74.0 
+Chicago 13930, Houston 12266,
+Max delay time: 284.0 
+Phoenix 14107, Dallas 11259,
+Max delay time: 51.0 
+Baltimore 10821, Greer 11996,
+Max delay time: 42.0 
+Williston 12389, Houston 12266,
+Max delay time: 34.0 
+Los Angeles 12892, Raleigh/Durham 14492,
+Max delay time: 37.0 
+Fort Myers 14635, Charlotte 11057,
+Max delay time: 21.0 
+Honolulu 12173, New York 12478,
+Max delay time: 22.0 
+Phoenix 14107, Detroit 11433,
+Max delay time: 104.0 
+Detroit 11433, San Francisco 14771,
+Max delay time: 61.0 
+Phoenix 14107, Miami 13303,
+Max delay time: 237.0 
+Washington 12264, Charlotte Amalie 15024,
+Max delay time: 1.0 
+Dallas/Fort Worth 11298, Salt Lake City 14869,
+Max delay time: 28.0 
+Seattle 14747, New Orleans 13495,
+Max delay time: 0.0 
+Orlando 13204, Los Angeles 12892,
+Max delay time: 300.0 
+San Angelo 14842, Dallas/Fort Worth 11298,
+Max delay time: 76.0 
+West Palm Beach/Palm Beach 14027, Hartford 10529,
+Max delay time: 73.0 
+Sacramento 14893, San Diego 14679,
+Max delay time: 72.0 
+Philadelphia 14100, Fort Lauderdale 11697,
+Max delay time: 131.0 
+Charlotte 11057, Pittsburgh 14122,
+Max delay time: 89.0 
+Dallas/Fort Worth 11298, Bloomington/Normal 10685,
+Max delay time: 33.0 
+New York 12478, Charlotte Amalie 15024,
+Max delay time: 167.0 
+Lake Charles 12915, Dallas/Fort Worth 11298,
+Max delay time: 34.0 
+Newark 11618, Omaha 13871,
+Max delay time: 33.0 
+Lafayette 12951, Dallas/Fort Worth 11298,
+Max delay time: 23.0 
+Greer 11996, Houston 12266,
+Max delay time: 3.0 
+Evansville 11612, Dallas/Fort Worth 11298,
+Max delay time: 204.0 
+Charlotte 11057, Houston 12191,
+Max delay time: 0.0 
+Minneapolis 13487, Charlotte 11057,
+Max delay time: 170.0 
+Miami 13303, Atlanta 10397,
+Max delay time: 158.0 
+Raleigh/Durham 14492, Philadelphia 14100,
+Max delay time: 10.0 
+New York 12953, Milwaukee 13342,
+Max delay time: 30.0 
+Atlanta 10397, St. Louis 15016,
+Max delay time: 74.0 
+Philadelphia 14100, Chicago 13930,
+Max delay time: 77.0 
+Orlando 13204, Charlotte 11057,
+Max delay time: 11.0 
+New Orleans 13495, Houston 12191,
+Max delay time: 50.0 
+Louisville 14730, Baltimore 10821,
+Max delay time: 53.0 
+Las Vegas 12889, Minneapolis 13487,
+Max delay time: 83.0 
+Dallas/Fort Worth 11298, Fort Wayne 11823,
+Max delay time: 71.0 
+Milwaukee 13342, Tampa 15304,
+Max delay time: 56.0 
+Dallas/Fort Worth 11298, Shreveport 14814,
+Max delay time: 63.0 
+Orlando 13204, New Orleans 13495,
+Max delay time: 57.0 
+Tampa 15304, Milwaukee 13342,
+Max delay time: 51.0 
+Charlotte 11057, Austin 10423,
+Max delay time: 4.0 
+Dallas/Fort Worth 11298, Kansas City 13198,
+Max delay time: 92.0 
+Atlanta 10397, Pensacola 14193,
+Max delay time: 27.0 
+Newark 11618, Providence 14307,
+Max delay time: 70.0 
+Washington 11278, Dallas 11259,
+Max delay time: 98.0 
+Burbank 10800, Portland 14057,
+Max delay time: 9.0 
+Los Angeles 12892, Minneapolis 13487,
+Max delay time: 60.0 
+Latrobe 12898, Fort Myers 14635,
+Max delay time: 10.0 
+Phoenix 14107, Montrose/Delta 13502,
+Max delay time: 24.0 
+Minneapolis 13487, Baltimore 10821,
+Max delay time: 36.0 
+Chicago 13930, Springfield 14783,
+Max delay time: 200.0 
+Newark 11618, Madison 13485,
+Max delay time: 11.0 
+San Antonio 14683, Detroit 11433,
+Max delay time: 22.0 
+Waco 10155, Dallas/Fort Worth 11298,
+Max delay time: 70.0 
+Omaha 13871, Atlanta 10397,
+Max delay time: 8.0 
+Kansas City 13198, Indianapolis 12339,
+Max delay time: 109.0 
+Grand Rapids 11986, Newark 11618,
+Max delay time: 22.0 
+Hayden 12094, Dallas/Fort Worth 11298,
+Max delay time: 45.0 
+Reno 14570, Los Angeles 12892,
+Max delay time: 97.0 
+Trenton 15356, Chicago 13232,
+Max delay time: 11.0 
+Chicago 13232, Seattle 14747,
+Max delay time: 169.0 
+Cedar Rapids/Iowa City 11003, Denver 11292,
+Max delay time: 284.0 
+Providence 14307, Chicago 13930,
+Max delay time: 33.0 
+Las Vegas 12889, El Paso 11540,
+Max delay time: 5.0 
+Dayton 11267, Atlanta 10397,
+Max delay time: 9.0 
+San Jose 14831, Portland 14057,
+Max delay time: 185.0 
+Williston 12389, Denver 11292,
+Max delay time: 29.0 
+Atlanta 10397, Birmingham 10599,
+Max delay time: 154.0 
+Seattle 14747, San Jose 14831,
+Max delay time: 206.0 
+Salt Lake City 14869, Fresno 11638,
+Max delay time: 68.0 
+Indianapolis 12339, Minneapolis 13487,
+Max delay time: 8.0 
+New Bern/Morehead/Beaufort 11617, Atlanta 10397,
+Max delay time: 0.0 
+Atlanta 10397, Newark 11618,
+Max delay time: 151.0 
+Detroit 11433, Orlando 13204,
+Max delay time: 44.0 
+Boston 10721, Savannah 14685,
+Max delay time: 25.0 
+Santa Ana 14908, Atlanta 10397,
+Max delay time: 0.0 
+Detroit 11433, Dayton 11267,
+Max delay time: 32.0 
+Wichita 12278, Minneapolis 13487,
+Max delay time: 15.0 
+Pittsburgh 14122, Los Angeles 12892,
+Max delay time: 0.0 
+Sarasota/Bradenton 14986, Atlanta 10397,
+Max delay time: 120.0 
+Bloomington/Normal 10685, Orlando 13204,
+Max delay time: 7.0 
+Dallas 11259, Atlanta 10397,
+Max delay time: 99.0 
+Chicago 13930, Raleigh/Durham 14492,
+Max delay time: 149.0 
+Meridian 13241, Hattiesburg/Laurel 14109,
+Max delay time: 14.0 
+Juneau 12523, Yakutat 15991,
+Max delay time: 41.0 
+Salt Lake City 14869, Philadelphia 14100,
+Max delay time: 0.0 
+Atlanta 10397, Charleston 10994,
+Max delay time: 39.0 
+Washington 11278, Seattle 14747,
+Max delay time: 0.0 
+Washington 12264, Columbia 10868,
+Max delay time: 119.0 
+Savannah 14685, New York 12953,
+Max delay time: 53.0 
+Fort Wayne 11823, Chicago 13930,
+Max delay time: 199.0 
+St. Louis 15016, Fort Lauderdale 11697,
+Max delay time: 7.0 
+Sun Valley/Hailey/Ketchum 15041, San Francisco 14771,
+Max delay time: 46.0 
+Philadelphia 14100, Charlotte Amalie 15024,
+Max delay time: 117.0 
+Baltimore 10821, Orlando 13204,
+Max delay time: 96.0 
+Minneapolis 13487, Cincinnati 11193,
+Max delay time: 4.0 
+Chicago 13930, Charlottesville 10990,
+Max delay time: 173.0 
+Aspen 10372, Atlanta 10397,
+Max delay time: 0.0 
+Denver 11292, Harrisburg 13230,
+Max delay time: 4.0 
+Newark 11618, Salt Lake City 14869,
+Max delay time: 103.0 
+Nashville 10693, Houston 12191,
+Max delay time: 124.0 
+Ontario 13891, Sacramento 14893,
+Max delay time: 118.0 
+Boston 10721, Cleveland 11042,
+Max delay time: 19.0 
+Trenton 15356, Raleigh/Durham 14492,
+Max delay time: 71.0 
+Cleveland 11042, Milwaukee 13342,
+Max delay time: 31.0 
+Dallas 11259, Baltimore 10821,
+Max delay time: 108.0 
+Atlanta 10397, Miami 13303,
+Max delay time: 33.0 
+Dallas/Fort Worth 11298, Beaumont/Port Arthur 10728,
+Max delay time: 36.0 
+Kalamazoo 10469, Detroit 11433,
+Max delay time: 63.0 
+Denver 11292, Boise 10713,
+Max delay time: 91.0 
+Raleigh/Durham 14492, Cleveland 11042,
+Max delay time: 85.0 
+Charlotte 11057, Houston 12266,
+Max delay time: 90.0 
