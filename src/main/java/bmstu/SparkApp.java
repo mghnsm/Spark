@@ -51,7 +51,7 @@ public class SparkApp {
 
         Map<String, String> airportDataMap = airportSplitted
                 .mapToPair(cols -> {
-                    AirportInfo info = new AirportInfo();
+                    AirportInfo info = new AirportInfo(cols);
                     return new Tuple2<>();
                         }
                 ).collectAsMap();
