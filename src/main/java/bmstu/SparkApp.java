@@ -26,7 +26,7 @@ public class SparkApp {
     public static void main(String[] args) throws Exception {
         SparkConf conf = new SparkConf().setAppName("lab5");
         JavaSparkContext sc = new JavaSparkContext(conf);
-        
+
         JavaRDD<String> airport = sc.textFile(PATH_TO_AIRPORT_TABLE);
         JavaRDD<String> flight = sc.textFile(PATH_TO_FLIGHT_TABLE);
 
