@@ -57,7 +57,7 @@ public class SparkApp {
 
         //flightPairsTotal.saveAsTextFile("output");
 
-        final Broadcast<Map<String, AirportData>> airportsBroadcasted = sc.broadcast(stringAirportDataMap);
+        final Broadcast<Map<String, String>> airportsBroadcasted = sc.broadcast(stringAirportDataMap);
     }
 
 }
