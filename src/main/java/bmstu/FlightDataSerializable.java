@@ -51,4 +51,12 @@ public class FlightDataSerializable implements Serializable {
     public float getMaxDelayTime() {
         return maxDelayTime;
     }
+
+    public float getDelaysPercent() {
+
+    }
+
+    public float getCancelledPercent() {
+
+    }
 }
