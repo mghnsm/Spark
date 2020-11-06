@@ -13,8 +13,8 @@ public class SparkApp {
 
     private static final String code = "Code";
 
-    private static boolean isNotEqualTo(String cols, int index, String name) {
-        return !cols[index]
+    private static boolean isNotEqualTo(String[] cols, int index, String name) {
+        return !cols[index].equals(name);
     }
 
     public static void main(String[] args) throws Exception {
