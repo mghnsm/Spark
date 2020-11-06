@@ -16,8 +16,8 @@ public class SparkApp {
         JavaSparkContext sc = new JavaSparkContext(conf);
         JavaRDD<String> dict = sc.textFile(PATH_TO_AIRPORT_TABLE);
         JavaRDD<String> time = sc.textFile(PATH_TO_FLIGHT_TABLE);
-        JavaRDD<String> dictSplitted = dict.flatMap(s -> Arrays.stream(s.split(",")).iterator());
-        JavaRDD<String> timeSplitted = time.flatMap(s -> Arrays.stream(s.split(",")).iterator());
+        //JavaRDD<String> dictSplitted = dict.flatMap(s -> Arrays.stream(s.split(",")).iterator());
+        //JavaRDD<String> timeSplitted = time.flatMap(s -> Arrays.stream(s.split(",")).iterator());
 
         JavaRDD<String[]>
 
