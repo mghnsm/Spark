@@ -24,7 +24,7 @@ public class SparkApp {
     }
 
     public static void main(String[] args) throws Exception {
-        SparkConf conf = new SparkConf().setAppName("lab5").setMaster("local[2]").set("spark.executor.memory","1g");
+        SparkConf conf = new SparkConf().setAppName("lab5")//.setMaster("local[2]").set("spark.executor.memory","1g");
         JavaSparkContext sc = new JavaSparkContext(conf);
 
         JavaRDD<String> airport = sc.textFile(PATH_TO_AIRPORT_TABLE);
