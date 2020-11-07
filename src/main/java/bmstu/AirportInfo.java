@@ -5,6 +5,8 @@ public class AirportInfo {
     private static final int AIRPORT_ID = 0;
     private static final int AIRPORT_NAME = 1;
 
+    private int airportNameEnd = str.length - 1;
+
     public AirportInfo(String[] str) {
         this.str = str;
     }
@@ -14,6 +16,10 @@ public class AirportInfo {
     }
 
     public String getAirportName() {
-        return str[AIRPORT_NAME];
+        String out = "";
+        for(int i = AIRPORT_NAME; i < airportNameEnd; i++) {
+            out += str[i];
+        }
+        return out;
     }
 }
