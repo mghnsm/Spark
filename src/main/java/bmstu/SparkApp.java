@@ -63,7 +63,7 @@ public class SparkApp {
                 item -> {
                     String out = "";
                     out += "Origin: " + airportsBroadcasted.value().get(item._1._1) + " "
-                            + item._1._1 + ", "
+                            + item._1._1 + ", \n"
                             + "Destination: " + airportsBroadcasted.value().get(item._1._2) + " "
                             + item._1._2 + ",\nMax delay time: "
                             + item._2.getMaxDelayTime() + " \nDelays percent: "
