@@ -23,7 +23,7 @@ public class SparkApp {
         return !cols[index].equals(name);
     }
 
-    public static void main(String[] args) throws Exception {
+    public static void main(String[] args) {
         SparkConf conf = new SparkConf().setAppName("lab5").setMaster("local[2]").set("spark.executor.memory","1g");
         JavaSparkContext sc = new JavaSparkContext(conf);
 
