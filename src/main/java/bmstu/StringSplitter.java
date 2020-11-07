@@ -8,8 +8,4 @@ public class StringSplitter {
         }
         return splittedString;
     }
-
-    public static String[] removeQuotes(String inputString) {
-        
-    }
 }
