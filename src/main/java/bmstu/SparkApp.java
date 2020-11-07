@@ -14,11 +14,9 @@ public class SparkApp {
     public static final String PATH_TO_FLIGHT_TABLE = "664600583_T_ONTIME_sample.csv";
 
     private static final String CODE = "Code";
-    public static final String DEST_AIRPORT_ID = "DEST_AIRPORT_ID";
     public static final String YEAR = "YEAR";
 
     public static final int AIRPORT_ID_TABLE = 0;
-    public static final int DEST_AIRPORT_ID_TABLE = 14;
     public static final int YEAR_TABLE = 0;
 
     private static boolean isNotEqualTo(String[] cols, int index, String name) {
